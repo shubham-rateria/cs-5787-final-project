@@ -1,0 +1,349 @@
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+2024-11-12 09:44:39,859 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:40,070 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27 200 19153
+2024-11-12 09:44:40,925 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-311409577946953371575552038916916220028&bing_market=wt-WT&ex=-1 200 51923
+2024-11-12 09:44:41,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:41,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:41,954 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Antileukotriene+agents+in+the+management+of+asthma+detailed+medical+information%27 200 19510
+2024-11-12 09:44:41,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:42,054 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Beta+agonists+in+asthma%3A+Acute+administration+and+prophylactic+use+detailed+medical+information%27 200 19784
+2024-11-12 09:44:42,121 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Beta-2+adrenergic+receptor+dysfunction+and+polymorphism+in+asthma+detailed+medical+information%27 200 19831
+2024-11-12 09:44:42,723 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Antileukotriene+agents+in+the+management+of+asthma+detailed+medical+information%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-257068414469827170222954672836277959995&bing_market=wt-WT&ex=-1 200 42826
+2024-11-12 09:44:42,798 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Beta-2+adrenergic+receptor+dysfunction+and+polymorphism+in+asthma+detailed+medical+information%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-16970581897386616089675465198916154187&bing_market=wt-WT&ex=-1 200 17481
+2024-11-12 09:44:42,810 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Beta+agonists+in+asthma%3A+Acute+administration+and+prophylactic+use+detailed+medical+information%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-14244937439577411914253559330191457443&bing_market=wt-WT&ex=-1 200 45958
+2024-11-12 09:44:43,747 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:43,883 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27 200 19191
+2024-11-12 09:44:44,668 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:44,677 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-311409577946953371575552038916916220028&bing_market=wt-WT&ex=-1 200 54572
+2024-11-12 09:44:44,803 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Beta+agonists+acute+administration+prophylactic+use+medical+literature%27 200 19402
+2024-11-12 09:44:45,283 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:45,284 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:45,420 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Beta-2+adrenergic+receptor+dysfunction+and+polymorphism+in+asthma+detailed+medical+information%27 200 19814
+2024-11-12 09:44:45,425 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Antileukotriene+agents+in+the+management+of+asthma+detailed+medical+information%27 200 19510
+2024-11-12 09:44:45,614 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Beta+agonists+acute+administration+prophylactic+use+medical+literature%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-24047069698718325399560435395663383958&bing_market=wt-WT&ex=-1 200 20459
+2024-11-12 09:44:46,152 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Beta-2+adrenergic+receptor+dysfunction+and+polymorphism+in+asthma+detailed+medical+information%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-16970581897386616089675465198916154187&bing_market=wt-WT&ex=-1 200 17316
+2024-11-12 09:44:46,186 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Antileukotriene+agents+in+the+management+of+asthma+detailed+medical+information%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-257068414469827170222954672836277959995&bing_market=wt-WT&ex=-1 200 54805
+2024-11-12 09:44:46,387 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:46,541 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27 200 19152
+2024-11-12 09:44:47,333 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:47,335 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-311409577946953371575552038916916220028&bing_market=wt-WT&ex=-1 200 50183
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+Processing: Anaphylaxis Allergic reactions to seminal plasma
+Processing: Anaphylaxis Anaphylaxis induced by subcutaneous allergen immunotherapy
+Processing: Anaphylaxis Biphasic and protracted anaphylaxis
+Processing: Anaphylaxis Exercise-induced anaphylaxis: Management and prognosis
+Processing: Anaphylaxis Laboratory tests to support the clinical diagnosis of anaphylaxis
+Processing: Anaphylaxis Prescribing epinephrine for anaphylaxis self-treatment
+Processing: Asthma Nocturnal asthma
+Processing: Asthma Epidemiology of asthma
+Processing: Asthma Risk factors for asthma
+Processing: Asthma Diagnosis and management of asthma in older adults
+Processing: Asthma Evaluation of severe asthma in adolescents and adults
+Processing: Asthma Flow-volume loops
+Processing: Asthma Office spirometry
+Processing: Asthma Pulmonary function testing in asthma
+Processing: Asthma Occupational asthma: Pathogenesis
+Processing: Asthma Cigarette smoking in pregnancy: Cessation strategies and treatment options
+Processing: Asthma Physiology and clinical course of asthma in pregnancy
+Processing: Asthma Pathogenesis of asthma
+Processing: Asthma Anti-IgE therapy
+Processing: Asthma Beta agonists in asthma: Controversy regarding chronic use
+Processing: Asthma Clinical features and evaluation of glucocorticoid-induced osteoporosis
+Processing: Asthma Complementary, alternative, and integrative therapies for asthma
+Processing: Asthma Delivery of inhaled medication in adults
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Delivery of inhaled medication in adults' from a medical standpoint, I will conduct a search for relevant information that covers the technical and medical aspects of this subject. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Delivery of inhaled medication in adults medical standpoint'  [0m
+Observation: [36;1m[1;3mThe education of patients regarding optimal inhaler technique and the role of these medications in the management of asthma and chronic obstructive pulmonary disease (COPD) are discussed separately. ... Delivery of inhaled medication in adults ... medical questions, and treatment options, including any risks or benefits regarding use of ... Importance: The optimal inhaled reliever therapy for asthma remains unclear. Objective: To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma. Data sources: The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... Importance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... The goals of asthma therapy are to achieve good symptom control, prevent asthma exacerbations, and improve quality of life. A basic tenet of asthma therapy is that treatment intensity should be individualized to match the frequency and severity of asthmatic symptoms as well as the risk of exacerbations. For all persons with asthma, effective ... The association between beliefs and adherence to inhaled controller medication among older adults with asthma: a cross-sectional study in primary care. Patient Preference Adherence 14 , 1351 ...[0m
+Thought:[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Delivery of inhaled medication in adults' from a medical standpoint, I will conduct a search for relevant information that covers the technical and medical aspects of this subject.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Delivery of inhaled medication in adults medical standpoint'  [0m
+Observation: [36;1m[1;3mImportance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... The education of patients regarding optimal inhaler technique and the role of these medications in the management of asthma and chronic obstructive pulmonary disease (COPD) are discussed separately. ... Delivery of inhaled medication in adults ... medical questions, and treatment options, including any risks or benefits regarding use of ... Importance: The optimal inhaled reliever therapy for asthma remains unclear. Objective: To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma. Data sources: The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... Sub-optimally controlled asthma is common, in part because of normalisation of symptoms, underuse of preventer therapy, overuse of reliever therapy, and poor inhaler technique. Ensuring patients are using the right inhaled medicine and that this is getting to the right place in the airways is critical to improving asthma control. Right inhaled ... The association between beliefs and adherence to inhaled controller medication among older adults with asthma: a cross-sectional study in primary care. Patient Preference Adherence 14 , 1351 ...[0m
+Thought:[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Delivery of inhaled medication in adults' from a medical standpoint, I will conduct a search for relevant information that covers the technical and medical aspects of this subject.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Delivery of inhaled medication in adults medical standpoint'  [0m
+Observation: 2024-11-12 09:44:47,463 - INFO - response: https://duckduckgo.com/?q=%27Beta+agonists+asthma+acute+prophylactic+use+review+article%27 200 19088
+2024-11-12 09:44:47,801 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:47,852 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:47,949 - INFO - response: https://duckduckgo.com/?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+detailed+pharmacology%27 200 19501
+2024-11-12 09:44:47,982 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+dysfunction+polymorphism+asthma+medical+literature+review%27 200 19397
+2024-11-12 09:44:48,242 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta+agonists+asthma+acute+prophylactic+use+review+article%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-20782564301244324126739674492184641331&bing_market=wt-WT&ex=-1 200 21085
+2024-11-12 09:44:48,762 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+detailed+pharmacology%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-31584545021939910227142765050124506765&bing_market=wt-WT&ex=-1 200 30764
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+Processing: Anaphylaxis Anaphylaxis in infants
+Processing: Anaphylaxis Anaphylaxis: Acute diagnosis
+Processing: Anaphylaxis Anaphylaxis: Emergency treatment
+Processing: Anaphylaxis Exercise-induced anaphylaxis: Clinical manifestations, epidemiology, pathogenesis, and diagnosis
+Processing: Anaphylaxis Food-induced anaphylaxis
+Processing: Anaphylaxis Long-term management of patients with anaphylaxis
+Processing: Asthma Aspirin-exacerbated respiratory disease
+Processing: Asthma Treatment of recurrent virus-induced wheezing in young children
+Processing: Asthma Genetics of asthma
+Processing: Asthma Severe asthma phenotypes
+Processing: Asthma Diagnosis of asthma in adolescents and adults
+Processing: Asthma Evaluation of subacute and chronic cough in adults
+Processing: Asthma Identifying patients at risk for fatal asthma
+Processing: Asthma Overview of pulmonary function testing in adults
+Processing: Asthma Occupational asthma: Definitions, epidemiology, causes, and risk factors
+Processing: Asthma Cigarette and tobacco products in pregnancy: Impact on pregnancy and the neonate
+Processing: Asthma Paradoxical vocal fold motion
+Processing: Asthma Neuronal control of the airways
+Processing: Asthma An overview of asthma management
+Processing: Asthma Antileukotriene agents in the management of asthma
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of "Asthma Antileukotriene agents in the management of asthma," I will need to gather specific and technical information from reliable medical sources. This will ensure that the summary is suitable for a professional audience. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Antileukotriene agents in the management of asthma detailed medical information'  [0m
+Observation: [36;1m[1;3m(See "Antileukotriene agents in the management of asthma".) Clinical trials in patients with mild to moderate asthma have demonstrated that zafirlukast and montelukast induce persistent bronchodilation and improve symptoms . In addition, these drugs decrease the need for rescue use of SABA inhalers and, in some studies, protect against acute ... (See "Antileukotriene agents in the management of asthma".) Clinical trials in patients with mild to moderate asthma have demonstrated that zafirlukast and montelukast induce persistent bronchodilation and improve symptoms . In addition, these drugs decrease the need for rescue use of SABA inhalers and, in some studies, protect against acute ... The principal goals of asthma treatment are to achieve good symptom control, prevent exacerbations, and improve quality of life. A basic tenet of asthma therapy is that treatment intensity should be individualized to achieve these goals. For all persons with asthma, regardless of severity, effective communication, ongoing patient education, and ... Nonsteroidal anti-asthma agents are a class of drugs that are used to treat and control asthma symptoms. These drugs work by reducing inflammation in the airways, which helps to improve airflow and makes it easier for the patient to breathe. In this article, we will provide an overview of nonsteroidal anti-asthma agents, their mode of action ... Over the past two decades, the management of severe asthma has shifted from relying on inhaled corticosteroids and bronchodilators to more precise, targeted approaches. Monoclonal antibodies (mAbs) designed to address specific molecular pathways in asthma have transformed care for patients with severe asthma. Since therapy targeting immunoglobulin E (IgE) became the first biologic developed ...[0m
+Thought:[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of "Asthma Antileukotriene agents in the management of asthma," I will need to gather specific and technical information from reliable medical sources. This will ensure that the summary is suitable for a professional audience.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Antileukotriene agents in the management of asthma detailed medical information'  [0m
+Observation: [36;1m[1;3m(See "Antileukotriene agents in the management of asthma".) Clinical trials in patients with mild to moderate asthma have demonstrated that zafirlukast and montelukast induce persistent bronchodilation and improve symptoms . In addition, these drugs decrease the need for rescue use of SABA inhalers and, in some studies, protect against acute ... (See "Antileukotriene agents in the management of asthma".) Clinical trials in patients with mild to moderate asthma have demonstrated that zafirlukast and montelukast induce persistent bronchodilation and improve symptoms . In addition, these drugs decrease the need for rescue use of SABA inhalers and, in some studies, protect against acute ... The principal goals of asthma treatment are to achieve good symptom control, prevent exacerbations, and improve quality of life. A basic tenet of asthma therapy is that treatment intensity should be individualized to achieve these goals. For all persons with asthma, regardless of severity, effective communication, ongoing patient education, and ... Nonsteroidal anti-asthma agents are a class of drugs that are used to treat and control asthma symptoms. These drugs work by reducing inflammation in the airways, which helps to improve airflow and makes it easier for the patient to breathe. In this article, we will provide an overview of nonsteroidal anti-asthma agents, their mode of action ... Over the past two decades, the management of severe asthma has shifted from relying on inhaled corticosteroids and bronchodilators to more precise, targeted approaches. Monoclonal antibodies (mAbs) designed to address specific molecular pathways in asthma have transformed care for patients with severe asthma. Since therapy targeting immunoglobulin E (IgE) became the first biologic developed ...[0m
+Thought:[32;1m[1;3mI need to refine my search to gather more specific and detailed information about antileukotriene agents, particularly focusing on their pharmacological mechanisms, clinical efficacy, and role in asthma management. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Antileukotriene agents zafirlukast montelukast asthma management detailed pharmacology'  [0m
+Observation: 2024-11-12 09:44:48,771 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+dysfunction+polymorphism+asthma+medical+literature+review%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-116264374477134173806057100566917753561&bing_market=wt-WT&ex=-1 200 15466
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+Processing: Anaphylaxis Anaphylaxis in pregnant and breastfeeding women
+Processing: Anaphylaxis Anaphylaxis: Confirming the diagnosis and determining the cause(s)
+Processing: Anaphylaxis Differential diagnosis of anaphylaxis in children and adults
+Processing: Anaphylaxis Fatal anaphylaxis
+Processing: Anaphylaxis Idiopathic anaphylaxis
+Processing: Anaphylaxis Pathophysiology of anaphylaxis
+Processing: Asthma Exercise-induced bronchoconstriction
+Processing: Asthma Virus-induced wheezing and asthma: An overview
+Processing: Asthma Natural history of asthma
+Processing: Asthma Bronchoprovocation testing
+Processing: Asthma Evaluation of pulmonary disability
+Processing: Asthma Exhaled nitric oxide analysis and applications
+Processing: Asthma Occupational asthma: Clinical features and diagnosis
+Processing: Asthma Peak expiratory flow rate monitoring in asthma
+Processing: Asthma Occupational asthma: Management, prognosis, and prevention
+Processing: Asthma Gastroesophageal reflux and asthma
+Processing: Asthma Beta-2 adrenergic receptor dysfunction and polymorphism in asthma
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Beta-2 adrenergic receptor dysfunction and polymorphism in asthma', I will conduct a search for relevant medical literature and information. This will help me gather the necessary technical details to formulate an appropriate response.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Beta-2 adrenergic receptor dysfunction and polymorphism in asthma detailed medical information'  [0m
+Observation: [36;1m[1;3mAsthma is a chronic respiratory disease that affects millions of people around the world, which is one of the major global public health problems, with high morbidity and mortality rates and a heavy economic burden [1,2,3].Despite the availability of several therapeutic options, a subset of patients with severe asthma remains refractory to conventional treatments [4, 5]. Importance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... Asthma: effect of excess short-acting β2-agonist (SABA) inhaler prescriptions on healthcare resource utilisation ... 1 Kenton Bridge Medical Centre, Harrow. 2 Respiratory Medicine, Leeds Teaching Hospitals NHS Trust, Leeds. 3 Smart Respiratory Ltd, ... Adrenergic beta-2 Receptor Agonists Anti-Asthmatic Agents ... The heterogeneous nature of asthma results in a wide range of presentations during exacerbation. Despite UK pre-hospital management guidelines focusing on β₂ agonists, variables such as cause, severity, underlying health, comorbidities, and drug side effects can often make emergency treatment optimi … To date, only the Arg 16 polymorphism appears to be important in determiningβ 2-agonist drug responses but the data as well as their application are limited. The results of prospective studies based on selection by ADRB2 haplotype will be necessary before a more general application of this knowledge can be encouraged.[0m
+Thought:[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Beta-2 adrenergic receptor dysfunction and polymorphism in asthma', I will conduct a search for relevant medical literature and information. This will help me gather the necessary technical details to formulate an appropriate response.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Beta-2 adrenergic receptor dysfunction and polymorphism in asthma detailed medical information'  [0m
+Observation: [36;1m[1;3mAsthma is a chronic respiratory disease that affects millions of people around the world, which is one of the major global public health problems, with high morbidity and mortality rates and a heavy economic burden [1,2,3].Despite the availability of several therapeutic options, a subset of patients with severe asthma remains refractory to conventional treatments [4, 5]. Importance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... To date, only the Arg 16 polymorphism appears to be important in determiningβ 2-agonist drug responses but the data as well as their application are limited. The results of prospective studies based on selection by ADRB2 haplotype will be necessary before a more general application of this knowledge can be encouraged. The heterogeneous nature of asthma results in a wide range of presentations during exacerbation. Despite UK pre-hospital management guidelines focusing on β₂ agonists, variables such as cause, severity, underlying health, comorbidities, and drug side effects can often make emergency treatment optimi … Asthma: effect of excess short-acting β2-agonist (SABA) inhaler prescriptions on healthcare resource utilisation ... 1 Kenton Bridge Medical Centre, Harrow. 2 Respiratory Medicine, Leeds Teaching Hospitals NHS Trust, Leeds. 3 Smart Respiratory Ltd, ... Adrenergic beta-2 Receptor Agonists Anti-Asthmatic Agents ...[0m
+Thought:[32;1m[1;3mThe search did not yield a comprehensive summary directly, so I will refine my search to focus specifically on the dysfunction and polymorphism of the Beta-2 adrenergic receptor in asthma, aiming for a more detailed medical perspective.
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta-2 adrenergic receptor dysfunction polymorphism asthma medical literature review'  [0m
+Observation: 2024-11-12 09:44:48,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:49,120 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27 200 19191
+2024-11-12 09:44:49,260 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-311409577946953371575552038916916220028&bing_market=wt-WT&ex=-1 202 573
+2024-11-12 09:44:49,261 - ERROR - Error summarizing topic 'Asthma Delivery of inhaled medication in adults': https://links.duckduckgo.com/d.js?q=%27Asthma+Delivery+of+inhaled+medication+in+adults+medical+standpoint%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-311409577946953371575552038916916220028&bing_market=wt-WT&ex=-1 202 Ratelimit
+2024-11-12 09:44:50,198 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:50,265 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:50,336 - INFO - response: https://duckduckgo.com/?q=%27Beta+agonists+asthma+acute+administration+prophylactic+use+clinical+guidelines%27 200 19385
+2024-11-12 09:44:50,385 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:50,397 - INFO - response: https://duckduckgo.com/?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+detailed+pharmacology%27 200 19480
+2024-11-12 09:44:50,518 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+review+article%27 200 19140
+2024-11-12 09:44:51,092 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta+agonists+asthma+acute+administration+prophylactic+use+clinical+guidelines%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-208546782166951966456908710362311345940&bing_market=wt-WT&ex=-1 200 21930
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+Processing: Asthma Evaluation of wheezing illnesses other than asthma in adults
+Processing: Asthma Treatment of allergic bronchopulmonary aspergillosis
+Processing: Asthma Reactive airways dysfunction syndrome and irritant-induced asthma
+Processing: Asthma Nonselective NSAIDs: Overview of adverse effects
+Processing: Asthma Clinical manifestations and diagnosis of allergic bronchopulmonary aspergillosis
+Processing: Asthma Allergen avoidance in the treatment of asthma and allergic rhinitis
+Processing: Asthma Beta agonists in asthma: Acute administration and prophylactic use
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of "Asthma Beta agonists in asthma: Acute administration and prophylactic use," I will need to conduct a search for relevant medical literature and information. This will help ensure that the summary is accurate and suitable for a medical professional audience. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Beta agonists in asthma: Acute administration and prophylactic use detailed medical information'  [0m
+Observation: [36;1m[1;3mINTRODUCTION— Beta adrenergic drugs are the most potent bronchodilators approved for clinical use in asthma and obstructive lung disease. Among the beta agonists, the individual agents vary in their rapidity of onset and duration of action. Inhaled, short-acting, selective beta-2 adrenergic agonists are the traditional mainstay of acute ... Importance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... There has been a long‐standing controversy over the regular use of beta 2 ‐agonists in asthma, which is ongoing. Sears 1986 suggested that excessive use of SABA might have contributed directly or indirectly to an increase in asthma deaths in New Zealand between 1960 and 1980. The authors comment that "most deaths were associated with poor ... (See "Beta agonists in asthma: Acute administration and prophylactic use", section on 'Adverse effects'.) Anti-inflammatory reliever (AIR) therapy, in higher risk patients — For patients with infrequent symptoms but risk factors for serious exacerbations , we suggest the use of AIR rather than SABA alone. Use of an inhaled glucocorticoid (aka ... Asthma in children younger than 12 years: Quick-relief (rescue) treatment for acute symptoms; Beta agonists in asthma: Acute administration and prophylactic use; COVID-19: Clinical manifestations and diagnosis in children; Continuous oxygen delivery systems for the acute care of infants, children, and adults; Delivery of inhaled medication in ...[0m
+Thought:[32;1m[1;3mThe search provided a wealth of information regarding the use of beta agonists in asthma, particularly focusing on their acute administration and prophylactic use. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Beta agonists acute administration prophylactic use medical literature'  [0m
+Observation: [36;1m[1;3m(See "Beta agonists in asthma: Acute administration and prophylactic use", section on 'Adverse effects'.) Anti-inflammatory reliever (AIR) therapy, in higher risk patients — For patients with infrequent symptoms but risk factors for serious exacerbations , we suggest the use of AIR rather than SABA alone. Use of an inhaled glucocorticoid (aka ... Asthma in children younger than 12 years: Quick-relief (rescue) treatment for acute symptoms; Beta agonists in asthma: Acute administration and prophylactic use; COVID-19: Clinical manifestations and diagnosis in children; Continuous oxygen delivery systems for the acute care of infants, children, and adults; Delivery of inhaled medication in ... INTRODUCTION — Beta adrenergic drugs are the most potent bronchodilators approved for clinical use in asthma and obstructive lung disease. Among the beta agonists, the individual agents vary in their rapidity of onset and duration of action. Inhaled, short-acting, selective beta-2 adrenergic agonists are the traditional mainstay of acute asthma therapy, while inhaled, long-acting, selective ... Asthma is a prevalent chronic inflammatory respiratory condition affecting millions of people worldwide and presents substantial challenges in both diagnosis and management. This respiratory condition is characterized by inflammation of the airways, causing intermittent airflow obstruction and bronchial hyperresponsiveness. The hallmark asthma symptoms include coughing, wheezing, and shortness ... Asthma is the most common chronic respiratory disease of childhood, with approximately 14% of children affected worldwide. Asthma is characterized by chronic airway inflammation, mucus hypersecretion, and hyper-responsiveness.[1] A triad of wheezing, shortness of breath, and cough indicates pediatric asthma.[2] In adults, the diagnosis of asthma can be confirmed by spirometric evaluation, but ...[0m
+Thought:[32;1m[1;3mThe search yielded extensive information on the role of beta agonists in asthma management, particularly focusing on their acute administration and prophylactic use. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta agonists asthma acute prophylactic use review article'  [0m
+Observation: [36;1m[1;3mImportance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... Asthma-related outcomes worsened with any SABA OTC purchase, regardless of SABA prescriptions; disease burden was the highest in patients with ≥3 SABA prescriptions and ≥1 SABA OTC purchase vs ... Review article Articles in Press ... While the management of asthma historically focused on the use of beta agonists to address bronchodilation and the use of inhaled corticosteroids to mitigate inflammation, the last 2 decades have seen a revolution with precision based approaches targeting specific mechanisms in the pathophysiology of asthma ... The Wiser Strategy of Using Beta-Agonists in Asthma: Mechanisms and Rationales. Dong In Suh ,1,2,3 Sebastian L. Johnston 1*. t of Pediatrics, Seoul National University College of Medicine, Seoul, KoreaABSTRACTConcerns regarding the safety of beta-2 agonist. have led to revisions of the major asthma guidelines to better address these issues ... The widespread use of short-acting beta-2 agonists (SABA) as an as-needed treatment for asthma is well-established. However, excessive use of SABA has been linked to undesirable outcomes such as increased risk of asthma attacks, exacerbations, and even death. The availability of SABA as an over-the-counter (OTC) medication has contributed to ...[0m
+Thought:[32;1m[1;3mThe search has provided a comprehensive overview of the role of beta agonists in asthma management, particularly focusing on their acute administration and prophylactic use. 
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta agonists asthma acute administration prophylactic use clinical guidelines'  [0m
+Observation: 2024-11-12 09:44:51,138 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+detailed+pharmacology%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-31584545021939910227142765050124506765&bing_market=wt-WT&ex=-1 200 30938
+2024-11-12 09:44:51,250 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+review+article%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-214263158040174837586609642816738777632&bing_market=wt-WT&ex=-1 200 18562
+2024-11-12 09:44:52,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:52,862 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:52,998 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+dysfunction+polymorphism+asthma+pathophysiology+review%27 200 19421
+2024-11-12 09:44:53,011 - INFO - response: https://duckduckgo.com/?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+pharmacological+mechanisms+clinical+efficacy%27 200 19961
+2024-11-12 09:44:53,739 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+dysfunction+polymorphism+asthma+pathophysiology+review%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-114138784950800567260684103063668605029&bing_market=wt-WT&ex=-1 200 18600
+2024-11-12 09:44:53,746 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Antileukotriene+agents+zafirlukast+montelukast+asthma+management+pharmacological+mechanisms+clinical+efficacy%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-256075759055278232265695818381115640032&bing_market=wt-WT&ex=-1 200 19050
+2024-11-12 09:44:54,079 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:54,212 - INFO - response: https://duckduckgo.com/?q=%27Asthma+Determinants+of+glucocorticoid+dosing+medical+literature%27%0A 200 19104
+2024-11-12 09:44:55,012 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+Determinants+of+glucocorticoid+dosing+medical+literature%27%0A&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-35495359306556727964588223591178044301&bing_market=wt-WT&ex=-1 200 21442
+2024-11-12 09:44:55,220 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:55,362 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27 200 19547
+2024-11-12 09:44:56,137 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-174047213218242723879062487612559213516&bing_market=wt-WT&ex=-1 200 18723
+2024-11-12 09:44:56,963 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:57,110 - INFO - response: https://duckduckgo.com/?q=%27Asthma+glucocorticoid+dosing+determinants+pharmacology+clinical+factors%27%0A 200 19188
+2024-11-12 09:44:57,676 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:57,818 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27 200 19531
+2024-11-12 09:44:57,873 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+glucocorticoid+dosing+determinants+pharmacology+clinical+factors%27%0A&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-310270045014261592116722800998739196504&bing_market=wt-WT&ex=-1 200 33994
+2024-11-12 09:44:58,555 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-174047213218242723879062487612559213516&bing_market=wt-WT&ex=-1 200 18206
+[36;1m[1;3mRespiratory diseases (RDs) constitute a common public health problem both in industrialized and developing countries. The comprehension of the pathophysiological mechanisms underlying these conditions and the development of new therapeutic strategies are critical for improving the quality of life of affected patients. β2-adrenergic receptor (β2AR) and transient receptor potential vanilloid 1 ... Asthma is a prevalent chronic inflammatory respiratory condition affecting millions of people worldwide and presents substantial challenges in both diagnosis and management. This respiratory condition is characterized by inflammation of the airways, causing intermittent airflow obstruction and bronchial hyperresponsiveness. The hallmark asthma symptoms include coughing, wheezing, and shortness ... Asthma: effect of excess short-acting β2-agonist (SABA) inhaler prescriptions on healthcare resource utilisation ... 1 Kenton Bridge Medical Centre, Harrow. 2 Respiratory Medicine, Leeds Teaching Hospitals NHS Trust, Leeds. 3 Smart Respiratory Ltd, London. PMID: 39054088 PMCID: PMC11299697 DOI ... Adrenergic beta-2 Receptor Agonists The Wiser Strategy of Using Beta-Agonists in Asthma: Mechanisms and Rationales. Dong In Suh ,1,2,3 Sebastian L. Johnston 1*. t of Pediatrics, Seoul National University College of Medicine, Seoul, KoreaABSTRACTConcerns regarding the safety of beta-2 agonist. have led to revisions of the major asthma guidelines to better address these issues ... The beta 2-adrenergic receptor agonists, such as salbutamol or formoterol, have a positive chronotropic effect and also decrease the atrioventricular nodal, atrial, and ventricular refractoriness ...[0m
+Thought:[32;1m[1;3mThe search results are still not yielding a comprehensive summary specifically focused on the dysfunction and polymorphism of the Beta-2 adrenergic receptor in asthma. I will refine my search further to target this specific aspect more effectively.
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta-2 adrenergic receptor polymorphism dysfunction asthma review article'  [0m
+Observation: [36;1m[1;3mProteinase-activated receptor-2 (PAR2) has long been linked to allergic airway inflammation and asthma, with β-arrestin2 identified as a key downstream signaling molecule in asthma development ... Background. The widespread use of short-acting beta-2 agonists (SABA) as an as-needed treatment for asthma is well-established. However, excessive use of SABA has been linked to undesirable outcomes such as increased risk of asthma attacks, exacerbations, and even death. The availability of SABA as an over-the-counter (OTC) medication has ... For example, it is well documented that β-arrestin2 has a dramatically greater affinity for beta-2 adrenergic receptor (β2AR) binding than β-arrestin1 36,37 and translocates to the β2AR much ... Asthma: effect of excess short-acting β 2-agonist (SABA) inhaler prescriptions on healthcare resource utilisation Br J Gen Pract . 2024 Jul 25;74(745):374-376. doi: 10.3399/bjgp24X739089. The Wiser Strategy of Using Beta-Agonists in Asthma: Mechanisms and Rationales. Dong In Suh ,1,2,3 Sebastian L. Johnston 1*. t of Pediatrics, Seoul National University College of Medicine, Seoul, KoreaABSTRACTConcerns regarding the safety of beta-2 agonist. have led to revisions of the major asthma guidelines to better address these issues ...[0m
+Thought:[32;1m[1;3mThe search results are still not yielding a comprehensive summary specifically focused on the dysfunction and polymorphism of the Beta-2 adrenergic receptor in asthma. I will refine my search further to target this specific aspect more effectively.
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta-2 adrenergic receptor dysfunction polymorphism asthma pathophysiology review'  [0m
+Observation: [36;1m[1;3mAsthma: effect of excess short-acting β 2-agonist (SABA) inhaler prescriptions on healthcare resource utilisation Br J Gen Pract . 2024 Jul 25;74(745):374-376. doi: 10.3399/bjgp24X739089. Bronchodilator response (BDR) is a measure of improvement in airway smooth muscle tone, inhibition of liquid accumulation and mucus section into the lumen in response to short-acting beta-2 agonists that varies among asthmatic patients. MicroRNAs (miRNAs) are well-known post-translational regulators. Identifying miRNAs associated with BDR could lead to a better understanding of the underlying ... Respiratory diseases (RDs) constitute a common public health problem both in industrialized and developing countries. The comprehension of the pathophysiological mechanisms underlying these conditions and the development of new therapeutic strategies are critical for improving the quality of life of affected patients. β2-adrenergic receptor (β2AR) and transient receptor potential vanilloid 1 ... Beta 2-Agonists: Short vs Long Acting The leap to selective beta 2-adrenergic bronchodilators was achieved with the introduction of albuterol in 1968. At the upper end of its therapeutic range, albuterol demonstrates slight stimulatory activity for alpha- and beta 1-receptors, but it remains the gold standard for selective beta 2-receptor activity. The Wiser Strategy of Using Beta-Agonists in Asthma: Mechanisms and Rationales. Dong In Suh ,1,2,3 Sebastian L. Johnston 1*. t of Pediatrics, Seoul National University College of Medicine, Seoul, KoreaABSTRACTConcerns regarding the safety of beta-2 agonist. have led to revisions of the major asthma guidelines to better address these issues ...[0m
+Thought:[32;1m[1;3mThe search results have not provided a comprehensive summary specifically focused on the dysfunction and polymorphism of the Beta-2 adrenergic receptor in asthma. I will refine my search further to target this specific aspect more effectively.
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta-2 adrenergic receptor polymorphism dysfunction asthma pathophysiology review article'  [0m
+Observation: [36;1m[1;3mProteinase-activated receptor-2 (PAR2) has long been linked to allergic airway inflammation and asthma, with β-arrestin2 identified as a key downstream signaling molecule in asthma development ... Asthma is a chronic respiratory disease that affects millions of people around the world, which is one of the major global public health problems, with high morbidity and mortality rates and a heavy economic burden [1,2,3].Despite the availability of several therapeutic options, a subset of patients with severe asthma remains refractory to conventional treatments [4, 5]. Respiratory diseases (RDs) constitute a common public health problem both in industrialized and developing countries. The comprehension of the pathophysiological mechanisms underlying these conditions and the development of new therapeutic strategies are critical for improving the quality of life of affected patients. β2-adrenergic receptor (β2AR) and transient receptor potential vanilloid 1 ... The widespread use of short-acting beta-2 agonists (SABA) as an as-needed treatment for asthma is well-established. However, excessive use of SABA has been linked to undesirable outcomes such as increased risk of asthma attacks, exacerbations, and even death. The availability of SABA as an over-the-counter (OTC) medication has contributed to ... Background Bronchodilator response (BDR) is a measure of improvement in airway smooth muscle tone, inhibition of liquid accumulation and mucus section into the lumen in response to short-acting beta-2 agonists that varies among asthmatic patients. MicroRNAs (miRNAs) are well-known post-translational regulators. Identifying miRNAs associated with BDR could lead to a better understanding of the ...[0m
+Thought:[32;1m[1;3mThe search results have not provided a comprehensive summary specifically focused on the dysfunction and polymorphism of the Beta-2 adrenergic receptor in asthma. I will refine my search further to target this specific aspect more effectively.
+
+Action: DuckDuckGo Search  
+Action Input: 'Beta-2 adrenergic receptor polymorphism dysfunction asthma pathophysiology review article'  [0m
+Observation: 2024-11-12 09:44:59,927 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:44:59,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:45:00,031 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:45:00,071 - INFO - response: https://duckduckgo.com/?q=%27Asthma+glucocorticoid+dosing+guidelines+determinants+clinical+pharmacology%27%0A 200 19344
+2024-11-12 09:45:00,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-12 09:45:00,215 - INFO - response: https://duckduckgo.com/?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27 200 19547
+2024-11-12 09:45:00,890 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Asthma+glucocorticoid+dosing+guidelines+determinants+clinical+pharmacology%27%0A&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-102466187212117209019425311294019072082&bing_market=wt-WT&ex=-1 200 48704
+[36;1m[1;3mImportance The optimal inhaled reliever therapy for asthma remains unclear.. Objective To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma.. Data Sources The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... The education of patients regarding optimal inhaler technique and the role of these medications in the management of asthma and chronic obstructive pulmonary disease (COPD) are discussed separately. ... Delivery of inhaled medication in adults ... medical questions, and treatment options, including any risks or benefits regarding use of ... Importance: The optimal inhaled reliever therapy for asthma remains unclear. Objective: To compare short-acting β agonists (SABA) alone with SABA combined with inhaled corticosteroids (ICS) and with the fast-onset, long-acting β agonist formoterol combined with ICS for asthma. Data sources: The MEDLINE, Embase, and CENTRAL databases were searched from January 1, 2020, to September 27, 2024 ... The association between beliefs and adherence to inhaled controller medication among older adults with asthma: a cross-sectional study in primary care. Patient Preference Adherence 14 , 1351 ... The study systematically compared the three inhaled asthma reliever therapies and analyzed, using network meta-analysis, 27 randomized clinical trials including 50,496 children and adults with asthma.[0m
+Thought:[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of 'Asthma Delivery of inhaled medication in adults' from a medical standpoint, I will conduct a search for relevant information that covers the technical and medical aspects of this subject.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Delivery of inhaled medication in adults medical standpoint'  [0mProcessing: Asthma Determinants of glucocorticoid dosing
+
+
+[1m> Entering new AgentExecutor chain...[0m
+[32;1m[1;3mTo provide a comprehensive and detailed summary on the topic of "Asthma Determinants of glucocorticoid dosing," I will need to conduct a search for relevant medical literature and information. This will help me gather the necessary technical details to create an informed summary suitable for a medical professional audience.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma Determinants of glucocorticoid dosing medical literature'
+[0m
+Observation: [36;1m[1;3mAsthma is a prevalent chronic inflammatory respiratory condition affecting millions of people worldwide and presents substantial challenges in both diagnosis and management. This respiratory condition is characterized by inflammation of the airways, causing intermittent airflow obstruction and bronchial hyperresponsiveness. The hallmark asthma symptoms include coughing, wheezing, and shortness ... 1 1 Longitudinal assessment of glucocorticoid toxicity reduction 2 in patients with severe asthma treated with biologic therapies. 3 4 P Jane McDowell PhD1,2, John Busby PhD3, John H Stone MD4, Claire A Butler PhD2, Liam G Heaney MD1,2 5 6 1-Wellcome-Wolfson Centre for Experimental Medicine, School of Medicine, Dentistry, and Biological Sciences; Asthma is a prevalent and costly public health issue, affecting over 260 million people and causing 455,000 deaths worldwide in 2019 1.Affecting one in 10 adults, asthma costs the Singapore ... Toxicities associated with oral corticosteroids (OCS) are well described. Targeted biologics for severe asthma (SA) substantially reduce OCS exposure with the potential to reduce cumulative OCS-toxicities. The Glucocorticoid Toxicity Index (GTI) systematically assesses OCS-related toxicity; the GTI aggregate improvement score (AIS) is a bidirectional measure of total toxicity change with a ... Randomized controlled trials (RCTs) are regarded as the gold standard for studying causal relationships in medical research, however, their rigorous screening processes and stringent enrollment criteria circumscribe the characteristics of the populations represented within the trial and thus compromise external validity .This is a particularly notable issue in the context of pediatric asthma ...[0m
+Thought:[32;1m[1;3mTo create a detailed and technical summary on the determinants of glucocorticoid dosing in asthma, I will need to gather more specific information regarding the pharmacological, clinical, and patient-related factors that influence dosing strategies. This will ensure that the summary is comprehensive and suitable for a medical professional audience.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma glucocorticoid dosing determinants pharmacology clinical factors'
+[0m
+Observation: [36;1m[1;3mThe original STICS RCT evaluated the efficacy and safety of increasing the dose of inhaled glucocorticoids from a baseline daily low dose to five times the ... groups identified by well-known determinants of asthma. ... of social and environmental factors when designing and analyzing clinical trials for asthma treatment and underscores the ... Asthma is a prevalent chronic inflammatory respiratory condition affecting millions of people worldwide and presents substantial challenges in both diagnosis and management. This respiratory condition is characterized by inflammation of the airways, causing intermittent airflow obstruction and bronchial hyperresponsiveness. The hallmark asthma symptoms include coughing, wheezing, and shortness ... Asthma is a prevalent and costly public health issue, affecting over 260 million people and causing 455,000 deaths worldwide in 2019 1.Affecting one in 10 adults, asthma costs the Singapore ... Dosing and adverse effects - The initial dose of inhaled glucocorticoids for mild persistent asthma should be in the low-dose range . The usual starting dose and the different types of inhaled glucocorticoids are shown in the low-dose column in the table ( table 11 ). Background. Asthma is a spectrum of chronic conditions that exhibit airway inflammation and hyperreactivity. 1 Severe asthma affects approximately 5% to 10% of individuals living with asthma. It is characterized by poorly controlled symptoms despite optimal use of front-line treatments such as high-dose inhaled corticosteroids with an adjuvant controller medication and/or systemic ...[0m
+Thought:[32;1m[1;3mTo provide a comprehensive summary on the determinants of glucocorticoid dosing in asthma, I need to synthesize the information gathered regarding the pharmacological, clinical, and patient-related factors influencing these dosing strategies. This will ensure the summary is detailed and suitable for a medical professional audience.
+
+Action: DuckDuckGo Search  
+Action Input: 'Asthma glucocorticoid dosing guidelines determinants clinical pharmacology'
+[0m
+Observation: 2024-11-12 09:45:00,980 - INFO - response: https://links.duckduckgo.com/d.js?q=%27Beta-2+adrenergic+receptor+polymorphism+dysfunction+asthma+pathophysiology+review+article%27&kl=wt-wt&l=wt-wt&p=&s=0&df=y&vqd=4-174047213218242723879062487612559213516&bing_market=wt-WT&ex=-1 200 18627
+0         Anaphylaxis Allergic reactions to seminal plasma
+1                       Anaphylaxis Anaphylaxis in infants
+2        Anaphylaxis Anaphylaxis in pregnant and breast...
+3        Anaphylaxis Anaphylaxis induced by subcutaneou...
+4                 Anaphylaxis Anaphylaxis: Acute diagnosis
+                               ...                        
+31858    Parasomnias and sleep related movement disorde...
+31859    Parasomnias and sleep related movement disorde...
+31860    Parasomnias and sleep related movement disorde...
+31861    Parasomnias and sleep related movement disorde...
+31862                     What's new in sleep medicine nan
+Length: 31863, dtype: object
+Traceback (most recent call last):
+  File "/Users/rateria/anaconda3/envs/d2l/lib/python3.9/multiprocessing/pool.py", line 853, in next
+    item = self._items.popleft()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/rateria/Code/cs-5787-final-project/data/data-gen-script-2.py", line 263, in <module>
+    for _ in tqdm(pool.imap_unordered(process_topic, process_args), total=len(topics), file=sys.__stderr__):
+  File "/Users/rateria/anaconda3/envs/d2l/lib/python3.9/site-packages/tqdm/std.py", line 1181, in __iter__
+    for obj in iterable:
+  File "/Users/rateria/anaconda3/envs/d2l/lib/python3.9/multiprocessing/pool.py", line 858, in next
+    self._cond.wait(timeout)
+  File "/Users/rateria/anaconda3/envs/d2l/lib/python3.9/threading.py", line 312, in wait
+    waiter.acquire()
+KeyboardInterrupt
