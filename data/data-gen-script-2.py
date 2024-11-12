@@ -28,6 +28,7 @@ from tqdm import tqdm
 import csv
 import sys
 from langchain.agents import AgentExecutor
+import traceback
 
 # Initialize logging to output to a file rather than the terminal
 log_file_path = './log/agent_process.log'  # Log file path for all logs
@@ -42,9 +43,19 @@ logging.basicConfig(
     ]
 )
 
-# If you want to redirect standard output (print statements) to the same log file:
 sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
 sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
+
+from typing import List
+from langchain_core.pydantic_v1 import BaseModel, Field
+
+class Claim(BaseModel):
+    supporting_claim: str = Field(description="A supporting claim that paraphrases a key assertion.")
+    contradictory_claim: str = Field(description="A contradictory claim that directly contradicts a key evidence provided in the summary.")
+    ambiguous_claim: str = Field(description="An ambiguous claim that either partially supports or contradicts, or presents elements that are neither clearly supported nor contradicted.")
+
+class Claims(BaseModel):
+    claims: List[Claim] = Field(default_factory=list)
 
 # %%
 def setup_agent(openai_api_key):
@@ -118,13 +129,14 @@ def generate_claim_triplet(agent, summary, num_samples=3):
         {summary}
         """
         # response = agent.run(prompt)
-        llm = OpenAI(openai_api_key=openai_api_key)
+        llm = ChatOpenAI(openai_api_key=openai_api_key, model="gpt-4o-mini")
         prompt = PromptTemplate(
             input_variables=["summary", "additional_details"],
             template=prompt
         )
+        # structured = llm.with_structured_output(Claims)
         llm_chain = LLMChain(llm=llm, prompt=prompt)
-        response = llm_chain.run({"summary": summary, "num_samples": 2})
+        response = llm_chain.run({"summary": summary, "num_samples": 4})
         
         print("JSON Response", response)
         
@@ -134,6 +146,7 @@ def generate_claim_triplet(agent, summary, num_samples=3):
     
     except Exception as e:
         logging.error(f"Error generating claims for summary: {e}")
+        traceback.print_exc()
         return "N/A", "N/A", "N/A"
 
 
@@ -249,7 +262,7 @@ if __name__ == "__main__":
     # Initialize multiprocessing resources
     manager = Manager()
     file_lock = manager.Lock()
-    num_processes = min(os.cpu_count() - 1, 4)  # Use up to 4 processes or CPU count - 1
+    num_processes = min(os.cpu_count() - 1, 6)  # Use up to 4 processes or CPU count - 1
     
     # Prepare arguments for each topic
     process_args = [
