@@ -7,47 +7,50 @@
 # # %%
 # !pip install -U langchain-openai
 
+import csv
+import json
+import logging
+import os
+import sys
+import time
+import traceback
+from functools import partial
+from multiprocessing import Lock, Manager, Pool
+from custom_tools import DuckDuckGoSearchTool
+
+import openai
 # %%
 import pandas as pd
-import os
-import json
-import openai
-from langchain_openai import ChatOpenAI
+from langchain.agents import AgentExecutor, Tool, initialize_agent
+from langchain.chains import LLMChain
 from langchain_community.tools import DuckDuckGoSearchRun
 from langchain.prompts import PromptTemplate
-from langchain_community.llms import OpenAI
-from langchain.chains import LLMChain
-from langchain.agents import initialize_agent, Tool
 from langchain_community.agent_toolkits import JsonToolkit, create_json_agent
+from langchain_community.llms import OpenAI
 from langchain_community.tools.json.tool import JsonSpec
-import logging
-from multiprocessing import Pool, Manager, Lock
-from functools import partial
-import time
+from langchain_openai import ChatOpenAI
 from tqdm import tqdm
-import csv
-import sys
-from langchain.agents import AgentExecutor
-import traceback
 
 # Initialize logging to output to a file rather than the terminal
-# log_file_path = os.path.join('.', 'log', 'agent_process.log')
+log_file_path = os.path.join('.', 'log', 'agent_process.log')
 
-# # Configure logging to include the desired log level and output to a file
-# logging.basicConfig(
-#     level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
-#     format='%(asctime)s - %(levelname)s - %(message)s',
-#     handlers=[
-#         logging.FileHandler(log_file_path),  # Log output to file
-#         logging.StreamHandler()  # Optionally, keep logging to console if needed
-#     ]
-# )
+# Configure logging to include the desired log level and output to a file
+logging.basicConfig(
+    level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler(log_file_path),  # Log output to file
+        logging.StreamHandler()  # Optionally, keep logging to console if needed
+    ]
+)
 
-# sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
-# sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
+sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
+sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
 
 from typing import List
+
 from langchain_core.pydantic_v1 import BaseModel, Field
+
 
 class Claim(BaseModel):
     supporting_claim: str = Field(description="A supporting claim that paraphrases a key assertion.")
@@ -61,7 +64,8 @@ class Claims(BaseModel):
 def setup_agent(openai_api_key):
     """Initialize and return a LangChain agent with DuckDuckGo search capabilities."""
     llm = ChatOpenAI(model_name="gpt-4o-mini", temperature=0, openai_api_key=openai_api_key)
-    duckduckgo_search = DuckDuckGoSearchRun()
+    # duckduckgo_search = DuckDuckGoSearchRun()
+    duckduckgo_search = DuckDuckGoSearchTool()
     
     tools = [
         Tool(
@@ -113,7 +117,7 @@ def search_and_summarize(agent, topic):
             "with a high level of detail, suitable for a medical professional audience."
         )
         summary = agent.run(prompt)
-        # print("DDG Summary:", summary)
+        print("DDG Summary:", summary)
         return summary
     except Exception as e:
         logging.error(f"Error summarizing topic '{topic}': {e}")
@@ -275,7 +279,8 @@ if __name__ == "__main__":
     # Initialize multiprocessing resources
     manager = Manager()
     file_lock = manager.Lock()
-    num_processes = os.cpu_count() - 1  # Use up to 4 processes or CPU count - 1
+    # num_processes = min(os.cpu_count() - 1, 4)  # Use up to 4 processes or CPU count - 1
+    num_processes=9
     
     # Prepare arguments for each topic
     process_args = [
@@ -287,3 +292,8 @@ if __name__ == "__main__":
     with Pool(num_processes) as pool:
         for _ in tqdm(pool.imap_unordered(process_topic, process_args), total=len(topics), file=sys.__stderr__):
             pass
+    
+    # uncomment this if you want to run it one at a time, don't use num_processes=1 because it runs through the pool executor
+    # and the outputs might be not simple to parse. this is much easier.
+    # for topic in topics:
+    #     process_topic((topic, openai_api_key, processed_topics, file_lock, output_file, log_file))
