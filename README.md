@@ -18,5 +18,6 @@ export OPENAI_API_KEY="<key-here>"
 ```
 
 ```
+cd data
 python data-gen-script-2.py
 ```
