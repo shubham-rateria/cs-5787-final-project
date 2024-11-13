@@ -31,7 +31,7 @@ from langchain.agents import AgentExecutor
 import traceback
 
 # Initialize logging to output to a file rather than the terminal
-log_file_path = './log/agent_process.log'  # Log file path for all logs
+log_file_path = os.path.join('.', 'log', 'agent_process.log')
 
 # Configure logging to include the desired log level and output to a file
 logging.basicConfig(
@@ -206,7 +206,7 @@ def process_topic(args):
                 write_row(output_file, result, file_lock)
                 
                 # Write to log file
-                write_row(log_file, {'Processed_Topic': topic}, file_lock)
+        write_row(log_file, {'Processed_Topic': topic}, file_lock)
             
     except Exception as e:
         logging.error(f"Error processing topic '{topic}': {e}")
@@ -228,9 +228,9 @@ def init_files(output_file, log_file):
 
 # %%
 # File paths
-log_file = './csv/process_log.csv'
-output_file = './csv/generated_claim_triplets_with_topics.csv'
-input_file = "./csv/categorized_content_links_unique.csv"
+log_file = os.path.join('.', 'csv', 'process_log.csv')
+output_file = os.path.join('.', 'csv', 'generated_claim_triplets_with_topics.csv')
+input_file = os.path.join('.', 'csv', 'categorized_content_links_unique.csv')
 
 # OpenAI API key
 # openai_api_key = "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"
