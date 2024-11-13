@@ -31,20 +31,20 @@ from langchain.agents import AgentExecutor
 import traceback
 
 # Initialize logging to output to a file rather than the terminal
-log_file_path = os.path.join('.', 'log', 'agent_process.log')
+# log_file_path = os.path.join('.', 'log', 'agent_process.log')
 
-# Configure logging to include the desired log level and output to a file
-logging.basicConfig(
-    level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file_path),  # Log output to file
-        logging.StreamHandler()  # Optionally, keep logging to console if needed
-    ]
-)
+# # Configure logging to include the desired log level and output to a file
+# logging.basicConfig(
+#     level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
+#     format='%(asctime)s - %(levelname)s - %(message)s',
+#     handlers=[
+#         logging.FileHandler(log_file_path),  # Log output to file
+#         logging.StreamHandler()  # Optionally, keep logging to console if needed
+#     ]
+# )
 
-sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
-sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
+# sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
+# sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
 
 from typing import List
 from langchain_core.pydantic_v1 import BaseModel, Field
@@ -113,13 +113,14 @@ def search_and_summarize(agent, topic):
             "with a high level of detail, suitable for a medical professional audience."
         )
         summary = agent.run(prompt)
+        # print("DDG Summary:", summary)
         return summary
     except Exception as e:
         logging.error(f"Error summarizing topic '{topic}': {e}")
         return None
 
 # %%
-def generate_claim_triplet(agent, summary, num_samples=3):
+def generate_claim_triplet(agent, summary):
     """Generate claim triplets from a summary."""
     try:
         prompt = """
@@ -164,6 +165,18 @@ def write_row(file_path, row_dict, file_lock):
             writer.writerow(row_dict)
 
 # %%
+def retry_search_and_summarize(agent, topic, retries=3):
+    wait_time = 5 # seconds
+    for i in range(1, retries + 1):
+        summary = search_and_summarize(agent, topic)
+        if summary is not None:
+            return summary
+        else:
+            print(f"Attempt {i} failed. Retrying in {wait_time} seconds...")
+            time.sleep(wait_time)  # Sleep for i seconds
+    return None  # Return None if all retries fail
+
+# %%
 def process_topic(args):
     """Process a single topic and write results immediately."""
     topic, openai_api_key, processed_topics, file_lock, output_file, log_file = args
@@ -175,7 +188,7 @@ def process_topic(args):
     
     try:
         agent = setup_agent(openai_api_key)
-        summary = search_and_summarize(agent, topic)
+        summary = retry_search_and_summarize(agent, topic, retries=5)
         
         if summary:
             # supports, contradicts, ambiguous = generate_claim_triplet(agent, summary)
@@ -206,7 +219,7 @@ def process_topic(args):
                 write_row(output_file, result, file_lock)
                 
                 # Write to log file
-        write_row(log_file, {'Processed_Topic': topic}, file_lock)
+            write_row(log_file, {'Processed_Topic': topic}, file_lock)
             
     except Exception as e:
         logging.error(f"Error processing topic '{topic}': {e}")
@@ -262,7 +275,7 @@ if __name__ == "__main__":
     # Initialize multiprocessing resources
     manager = Manager()
     file_lock = manager.Lock()
-    num_processes = min(os.cpu_count() - 1, 6)  # Use up to 4 processes or CPU count - 1
+    num_processes = os.cpu_count() - 1  # Use up to 4 processes or CPU count - 1
     
     # Prepare arguments for each topic
     process_args = [
