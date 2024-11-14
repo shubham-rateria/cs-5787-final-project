@@ -1,0 +1,243 @@
+Alfentanil: Pediatric drug informationAccess Lexicomp Online here.Copyright 1978-2018 Lexicomp, Inc. All rights reserved.(For additional information see "Alfentanil: Drug information" and see "Alfentanil: Patient drug information")For abbreviations and symbols that may be used in Lexicomp (show table)Special Alerts
+
+Opioid Safety Alert
+December 2017
+Health Canada, in collaboration with manufacturers, will update the Canadian labelling of all prescription opioid products to include the following:
+Recommendation for a daily opioid threshold dose for the management of chronic noncancer, nonpalliative pain (which aims to reduce risks of adverse events and overdoses associated with higher doses of opioids);
+Recommendation to limit the quantity of opioids prescribed for acute pain (which aims to reduce the duration of use and associated risks of developing dependence and substance use disorder); and
+Clarification of warnings, including those for special populations such as pregnant women and patients with a history of dependence or substance use disorder.
+Health Canada has prioritized product tables for updating based on risk. The labelling updates for all prescription opioids are expected to be completed in January 2019.
+Further information may be found at: http://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2017/65362a-eng.php.
+ALERT: US Boxed Warning
+Addiction, abuse, and misuse
+Alfentanil exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death. Assess each patient’s risk prior to prescribing alfentanil, and monitor all patients regularly for the development of these behaviors and conditions.
+Brand Names: Canada
+Alfenta;
+Alfentanil Injection, USP
+Therapeutic Category
+Analgesic, Narcotic;
+General Anesthetic
+Dosing: Neonatal
+IV: Doses should be titrated to appropriate effects; wide range of doses is dependent upon desired degree of analgesia/anesthesia 
+Dose not established; reported range: 9 to 20 mcg/kg/dose; a high percentage of neonates (GA: 30 to 40 weeks; PNA <3 days) receiving alfentanil (prior to procedures) at doses of 9 to 15 mcg/kg (mean dose: 11.7 mcg/kg) developed chest wall rigidity; 9 out of 20 (45%) developed mild or moderate rigidity that did not affect ventilation, while 4 out of 20 (20%) had severe rigidity interfering with respiration for ~5 to 10 minutes (Pokela 1992). In a separate study, severe muscle rigidity developed in five out of eight (63%) neonates (GA: 29 to 36 weeks; PNA 2 to 6 days) following a dose of 20 mcg/kg (Saarenmaa 1996); use of a skeletal muscle relaxant to prevent chest wall rigidity is recommended; however, smaller alfentanil doses may be required in newborns.
+Dosing: Usual(For additional information see "Alfentanil: Drug information")
+Note: Doses should be titrated to appropriate effects; wide range of doses is dependent upon desired degree of analgesia/anesthesia
+Pediatric: Anesthesia:
+Children <12 years:
+Pre-induction, emergence agitation prevention, analgesia in tonsillectomy, or dental procedure patients undergoing general anesthesia: Limited data available: IV: 10 to 20 mcg/kg/dose (Annila 1999; Bartolek 2007; Kim 2009; Kwak 2010; Ng 1999; Rahman Al-Refai 2007)
+Procedural analgesia for LP or bone marrow aspiration (in addition to propofol): Limited data available: Intermittent IV: 2 to 3 mcg/kg/dose (total dose: mean: 1.4 mcg/kg ± 2.4; range: 1.8 to 9.6 mcg/kg) administered to 20 patients ages 2 to 16 years old (von Heijne 2004)
+Children ≥12 years and Adolescents: See table; Note: Base dose on actual body weight unless >20% above ideal body weight, then base dose on lean body weight
+Alfentanil Dosing
+Indication
+Approximate Duration of Anesthesia (minute)
+Induction Period (Initial Dose) (mcg/kg)
+Maintenance Period (Increments/ Infusion)
+Total Dose (mcg/kg)
+Effects
+Incremental injection
+≤30
+8-20
+3-5 mcg/kg every 5-20 minutes or 
+0.5-1 mcg/kg/minute
+8-40
+Spontaneously breathing or assisted ventilation when required.
+30-60
+20-50
+5-15 mcg/kg every 5-20 minutes
+Up to 75
+Assisted or controlled ventilation required. Attenuation of response to laryngoscopy and intubation.
+Continuous infusion
+>45
+50-75
+0.5-3 mcg/kg/minute;
+average infusion rate: 1-1.5 mcg/kg/minute
+Dependent on duration of procedure
+Assisted or controlled ventilation required. Some attenuation of response to intubation and incision, with intraoperative stability.
+Anesthetic induction
+130-245
+0.5-1.5 mcg/kg/minute
+or general anesthetic
+Assisted or controlled ventilation required. Administer induction dose slowly (over 3 minutes). Concentration of inhalation agents reduced by 30% to 50% for initial hour.
+Monitored Anesthesia Care (MAC)
+3-8
+3-5 mcg/kg every 5-20 minutes or 0.25-1 mcg/kg/minute
+3-40
+Sedation, responsiveness, spontaneously breathing.
+Adult: Anesthesia: Note: Base dose on actual body weight unless >20% above ideal body weight, then base dose on lean body weight.
+Alfentanil
+3-5 mcg/kg every 5 – 20 minutes or 0.25-1 mcg/kg/minute
+Dosing adjustment in renal impairment: There are no dosage adjustments provided in the manufacturer's labeling; use with caution. The pharmacokinetics of alfentanil were evaluated in adult patients with chronic renal failure and compared to patients with normal renal function. Although Vdss was increased in patients with renal failure, elimination half-life was similar between the two groups (Chauvin 1987). Therefore, prolongation of alfentanil duration of action is not expected and dosage adjustment is not necessary.
+Dosing adjustment in hepatic impairment: There are no dosage adjustments provided in the manufacturer's labeling; use with caution.
+Dosage Forms
+Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+Injectable, Injection [preservative free]: 
+Generic: 500 mcg/mL (2 mL, 5 mL)
+Generic Availability (US)
+Yes
+Controlled Substance
+C-II
+Administration
+Parenteral: IV: Inject slowly over 3 to 5 minutes or by continuous IV infusion 
+Storage/Stability
+Store intact vials at 20°C to 25°C (68°F to 77°F). Protect from light.
+Use
+Analgesic adjunct for the maintenance of anesthesia with barbiturate/nitrous oxide/oxygen; analgesic with nitrous oxide/oxygen in the maintenance of general anesthesia; analgesic component for monitored anesthesia care; primary anesthetic for induction of anesthesia in general surgery when endotracheal intubation and mechanical ventilation are required (All indications: FDA approved in ages ≥12 years and adults)
+Medication Safety Issues
+Sound-alike/look-alike issues: 
+Alfentanil may be confused with Anafranil, fentanyl, remifentanil, sufentanil 
+Alfenta may be confused with Sufenta
+High alert medication:
+The Institute for Safe Medication Practices (ISMP) includes this medication among its list of drug classes which have a heightened risk of causing significant patient harm when used in error.
+Adverse Reactions
+Cardiovascular: Bradycardia, cardiac arrhythmia, chest wall rigidity, hypertension, hypotension, peripheral vasodilation, tachycardia
+Central nervous system: Dizziness, drowsiness, sedation (postoperative)
+Gastrointestinal: Constipation, nausea, vomiting
+Neuromuscular & skeletal: Muscle movements (skeletal)
+Ophthalmic: Blurred vision, miosis
+Respiratory: Apnea, respiratory depression (postoperative)
+Rare but important or life-threatening: Anaphylaxis, bronchospasm, confusion (postoperative), drug dependence, euphoria (postoperative), headache, hypercapnia, laryngospasm, muscle rigidity (neck and extremities), myoclonus, pruritus, shivering, urticaria
+Contraindications
+Hypersensitivity (eg, anaphylaxis) to alfentanil or any component of the formulation.
+Documentation of allergenic cross-reactivity for opioids is limited. However, because of similarities in chemical structure and/or pharmacologic actions, the possibility of cross-sensitivity can not be ruled out with certainty.
+Warnings/Precautions
+Concerns related to adverse effects:
+• Hypotension: May cause hypotension; use with caution in patients with hypovolemia, cardiovascular disease (including acute MI), or drugs which may exaggerate hypotensive effects (including phenothiazines or general anesthetics). Monitor for symptoms of hypotension following initiation or dose titration.
+• Hypersensitivity: Anaphylaxis reactions may occur.
+• Respiratory depression: Serious, life-threatening, or fatal respiratory depression, even when used as recommended, may occur. Monitor closely for respiratory depression, especially during initiation or dose escalation. Carbon dioxide retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+• Serotonin syndrome: Potentially life-threatening serotonin syndrome (SS) has occurred with concomitant use of alfentanil and serotonergic agents (eg, SSRIs, SNRIs, triptans, TCAs, 5-HT3 receptor antagonists, mirtazapine, trazodone, tramadol) and agents that impair metabolism of serotonin (eg, MAO inhibitors). Monitor patients closely for signs of SS such as mental status changes (eg, agitation, hallucinations, delirium, coma); autonomic instability (eg, tachycardia, labile blood pressure, diaphoresis); neuromuscular changes (eg, tremor, rigidity, myoclonus); GI symptoms (eg, nausea, vomiting, diarrhea); and/or seizures. Discontinue alfentanil if serotonin syndrome is suspected.
+• Opioid agonist toxicities: Shares the toxic potentials of opioid agonists, and precautions of opioid agonist therapy should be observed.
+Disease-related concerns:
+• Abdominal conditions: May obscure diagnosis or clinical course of patients with acute abdominal conditions.
+• Biliary tract impairment: Use with caution in patients with biliary tract dysfunction, including acute pancreatitis; opioids may cause constriction of sphincter of Oddi.
+• Bradyarrhythmias: Bradycardia may occur; use with caution when administering to patients with bradyarrhythmias. Degree of bradycardia may be more pronounced when administered with non-vagolytic skeletal muscle relaxants (eg, vecuronium, cisatracurium) or when anticholinergic agents (eg, atropine) are not used.
+• Delirium tremens: Use with caution in patients with delirium tremens.
+• Head trauma: Use with extreme caution in patients with head injury, intracranial lesions, or elevated intracranial pressure (ICP); exaggerated elevation of ICP may occur.
+• Hepatic impairment: Use with caution in patients with hepatic impairment; reduce the dose as needed; monitor closely.
+• Obesity: Use with caution in patients who are morbidly obese. Reduce dose; use lean body weight for dosing in patients >20% over ideal body weight.
+• Prostatic hyperplasia/urinary stricture: Use with caution in patients with prostatic hyperplasia and/or urinary stricture.
+• Psychosis: Use with caution in patients with toxic psychosis.
+• Renal impairment: Use with caution in patients with renal impairment.
+• Respiratory disease: Use with caution and monitor for respiratory depression in patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or preexisting respiratory depression, particularly when initiating and titrating therapy; critical respiratory depression may occur, even at therapeutic dosages.
+• Seizures: Use with caution in patients with a history of seizure disorders; may increase risk or exacerbate preexisting seizure disorders.
+• Skeletal muscle rigidity: May produce muscular rigidity that involves all skeletal muscles, including those of the neck and extremities; incidence is dose-related. Initial doses up to 20 mcg/kg may cause skeletal muscle rigidity, particularly of the truncal muscles. Doses >130 mcg/kg will consistently cause muscle rigidity with an immediate onset. Consider the concomitant use of a nondepolarizing skeletal muscle relaxant to decrease the incidence.
+• Thyroid dysfunction: Use with caution in patients with thyroid dysfunction.
+Concurrent drug therapy issues:
+• Benzodiazepines or other CNS depressants: Concomitant use of opioids with benzodiazepines or other CNS depressants, including alcohol, may result in hypotension, profound sedation, respiratory depression, coma, and death. Following the administration of alfentanil, the dose of other CNS depressant drugs should be reduced.
+• CYP3A4 interactions: Use with all CYP3A4 inhibitors may result in an increase in alfentanil plasma concentrations, which could increase or prolong adverse drug effects and may cause potentially fatal respiratory depression. In addition, discontinuation of a concomitant CYP3A4 inducer may result in increased alfentanil concentrations. Monitor patients receiving alfentanil and any CYP3A4 inhibitor or inducer.
+• Drug-drug interactions: Potentially significant interactions may exist, requiring dose or frequency adjustment, additional monitoring, and/or selection of alternative therapy. Consult drug interactions database for more detailed information.
+Special populations:
+• Cachectic or debilitated patients: Use with caution in cachectic or debilitated patients; there is a greater potential for critical respiratory depression, even at therapeutic dosages. Appropriately reduce the initial dose; consider the effect of the initial dose in determining supplemental doses.
+• Elderly: Use with caution in the elderly; may be more sensitive to adverse effects. Appropriately reduce the initial dose; consider the effect of the initial dose in determining supplemental doses. Plasma clearance of alfentanil may be reduced and postoperative recovery may be prolonged.
+Other warnings/precautions:
+• Abuse/misuse/diversion: [US Boxed Warning]: Alfentanil exposes users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death. Assess each patient’s risk prior to prescribing alfentanil and monitor all patients regularly for the development of these behaviors and conditions.
+• Discontinuation of therapy: Discontinue infusion at least 10 to 15 minutes prior to the end of surgery during general anesthesia; during administration for Monitored Anesthesia Care (MAC), infusions may be continued to the end of the procedure.
+• Trained individuals: Alfentanil should be administered health care providers specifically trained in the use of anesthetic agents and should not be used in diagnostic or therapeutic procedures outside the monitored anesthesia setting; opioid antagonist, resuscitative and intubation equipment should be readily available.
+Metabolism/Transport Effects
+Substrate of CYP3A4 (major); Note: Assignment of Major/Minor substrate status based on clinically relevant drug interaction potential
+Drug Interactions
+(For additional information: Launch drug interactions program)Alvimopan: Opioid Analgesics may enhance the adverse/toxic effect of Alvimopan. This is most notable for patients receiving long-term (i.e., more than 7 days) opiates prior to alvimopan initiation. Management: Alvimopan is contraindicated in patients receiving therapeutic doses of opioids for more than 7 consecutive days immediately prior to alvimopan initiation. Risk D: Consider therapy modification
+Amphetamines: May enhance the analgesic effect of Opioid Analgesics. Risk C: Monitor therapy
+Anticholinergic Agents: May enhance the adverse/toxic effect of Opioid Analgesics. Specifically, the risk for constipation and urinary retention may be increased with this combination. Risk C: Monitor therapy
+Aprepitant: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Azelastine (Nasal): CNS Depressants may enhance the CNS depressant effect of Azelastine (Nasal). Risk X: Avoid combination
+Beta-Blockers: Opioids (Anilidopiperidine) may enhance the bradycardic effect of Beta-Blockers. Opioids (Anilidopiperidine) may enhance the hypotensive effect of Beta-Blockers. Risk C: Monitor therapy
+Blonanserin: CNS Depressants may enhance the CNS depressant effect of Blonanserin. Risk D: Consider therapy modification
+Brimonidine (Topical): May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Bromopride: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Bromperidol: May enhance the CNS depressant effect of CNS Depressants. Risk X: Avoid combination
+Calcium Channel Blockers (Nondihydropyridine): Opioids (Anilidopiperidine) may enhance the bradycardic effect of Calcium Channel Blockers (Nondihydropyridine). Opioids (Anilidopiperidine) may enhance the hypotensive effect of Calcium Channel Blockers (Nondihydropyridine). Risk C: Monitor therapy
+Cannabis: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Ceritinib: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Management: Use of ceritinib with a narrow therapeutic index CYP3A substrate (eg, alfentanil, cyclosporine, dihydroergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, tacrolimus) should be avoided when possible. Risk C: Monitor therapy
+Chlormethiazole: May enhance the CNS depressant effect of CNS Depressants. Management: Monitor closely for evidence of excessive CNS depression. The chlormethiazole labeling states that an appropriately reduced dose should be used if such a combination must be used. Risk D: Consider therapy modification
+Chlorphenesin Carbamate: May enhance the adverse/toxic effect of CNS Depressants. Risk C: Monitor therapy
+Cimetidine: May increase the serum concentration of Alfentanil. Risk C: Monitor therapy
+CNS Depressants: May enhance the CNS depressant effect of Opioid Analgesics. Management: Avoid concomitant use of opioid analgesics and benzodiazepines or other CNS depressants when possible. These agents should only be combined if alternative treatment options are inadequate. If combined, limit the dosages and duration of each drug. Risk D: Consider therapy modification
+Conivaptan: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk X: Avoid combination
+Crizotinib: May increase the serum concentration of Alfentanil. Risk X: Avoid combination
+CYP3A4 Inhibitors (Moderate): May decrease the metabolism of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+CYP3A4 Inhibitors (Strong): May decrease the metabolism of CYP3A4 Substrates (High risk with Inhibitors). Risk D: Consider therapy modification
+Dasatinib: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Desmopressin: Opioid Analgesics may enhance the adverse/toxic effect of Desmopressin. Risk C: Monitor therapy
+DiazePAM: May enhance the CNS depressant effect of Alfentanil. Hypotension may also occur. Risk C: Monitor therapy
+DilTIAZem: May increase the serum concentration of Alfentanil. Risk C: Monitor therapy
+Dimethindene (Topical): May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Diuretics: Opioid Analgesics may enhance the adverse/toxic effect of Diuretics. Opioid Analgesics may diminish the therapeutic effect of Diuretics. Risk C: Monitor therapy
+Dronabinol: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Droperidol: May enhance the CNS depressant effect of CNS Depressants. Management: Consider dose reductions of droperidol or of other CNS agents (e.g., opioids, barbiturates) with concomitant use. Risk D: Consider therapy modification
+Eluxadoline: Opioid Analgesics may enhance the constipating effect of Eluxadoline. Risk X: Avoid combination
+Enzalutamide: May decrease the serum concentration of Alfentanil. Risk X: Avoid combination
+Erythromycin (Systemic): May increase the serum concentration of Alfentanil. Management: For patients who are actively receiving erythromycin, caution should be used in administering alfentanil; monitor for increased anesthetic and respiratory depressant effects. Consider using lower doses of alfentanil or an alternative anesthetic. Risk D: Consider therapy modification
+Fluconazole: May increase the serum concentration of Alfentanil. Management: Monitor for increased anesthetic and respiratory depressant effects if alfentanil is combined with fluconazole. Consider using lower initial doses of alfentanil or an alternative anesthetic. Risk D: Consider therapy modification
+Flunitrazepam: CNS Depressants may enhance the CNS depressant effect of Flunitrazepam. Risk D: Consider therapy modification
+Fosaprepitant: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Fusidic Acid (Systemic): May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk X: Avoid combination
+Gastrointestinal Agents (Prokinetic): Opioid Analgesics may diminish the therapeutic effect of Gastrointestinal Agents (Prokinetic). Risk C: Monitor therapy
+HYDROcodone: CNS Depressants may enhance the CNS depressant effect of HYDROcodone. Management: Avoid concomitant use of hydrocodone and benzodiazepines or other CNS depressants when possible. These agents should only be combined if alternative treatment options are inadequate. If combined, limit the dosages and duration of each drug. Risk D: Consider therapy modification
+Idelalisib: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk X: Avoid combination
+Kava Kava: May enhance the adverse/toxic effect of CNS Depressants. Risk C: Monitor therapy
+Lofexidine: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Magnesium Sulfate: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Methotrimeprazine: CNS Depressants may enhance the CNS depressant effect of Methotrimeprazine. Methotrimeprazine may enhance the CNS depressant effect of CNS Depressants. Management: Reduce adult dose of CNS depressant agents by 50% with initiation of concomitant methotrimeprazine therapy. Further CNS depressant dosage adjustments should be initiated only after clinically effective methotrimeprazine dose is established. Risk D: Consider therapy modification
+MetyroSINE: CNS Depressants may enhance the sedative effect of MetyroSINE. Risk C: Monitor therapy
+MiFEPRIStone: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Management: Minimize doses of CYP3A4 substrates, and monitor for increased concentrations/toxicity, during and 2 weeks following treatment with mifepristone. Avoid cyclosporine, dihydroergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, and tacrolimus. Risk D: Consider therapy modification
+Minocycline: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Nabilone: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Nalmefene: May diminish the therapeutic effect of Opioid Analgesics. Management: Avoid the concomitant use of nalmefene and opioid analgesics. Discontinue nalmefene 1 week prior to any anticipated use of opioid analgesics. If combined, larger doses of opioid analgesics will likely be required. Risk D: Consider therapy modification
+Naltrexone: May diminish the therapeutic effect of Opioid Analgesics. Management: Seek therapeutic alternatives to opioids. See full drug interaction monograph for detailed recommendations. Risk D: Consider therapy modification
+Netupitant: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Ombitasvir, Paritaprevir, Ritonavir, and Dasabuvir: May increase the serum concentration of Alfentanil. Management: Monitor for increased anesthetic and respiratory depressant effects of alfentanil if these agents are combined. Consider using lower initial doses of alfentanil or an alternative anesthetic. Canadian labeling recommends avoidance of this combination. Risk D: Consider therapy modification
+Opioid Analgesics: CNS Depressants may enhance the CNS depressant effect of Opioid Analgesics. Management: Avoid concomitant use of opioid analgesics and benzodiazepines or other CNS depressants when possible. These agents should only be combined if alternative treatment options are inadequate. If combined, limit the dosages and duration of each drug. Risk D: Consider therapy modification
+Opioids (Mixed Agonist / Antagonist): May diminish the analgesic effect of Opioid Analgesics. Management: Seek alternatives to mixed agonist/antagonist opioids in patients receiving pure opioid agonists, and monitor for symptoms of therapeutic failure/high dose requirements (or withdrawal in opioid-dependent patients) if patients receive these combinations. Risk X: Avoid combination
+Orphenadrine: CNS Depressants may enhance the CNS depressant effect of Orphenadrine. Risk X: Avoid combination
+Oxomemazine: May enhance the CNS depressant effect of CNS Depressants. Risk X: Avoid combination
+OxyCODONE: CNS Depressants may enhance the CNS depressant effect of OxyCODONE. Management: Avoid concomitant use of oxycodone and benzodiazepines or other CNS depressants when possible. These agents should only be combined if alternative treatment options are inadequate. If combined, limit the dosages and duration of each drug. Risk D: Consider therapy modification
+Palbociclib: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Paraldehyde: CNS Depressants may enhance the CNS depressant effect of Paraldehyde. Risk X: Avoid combination
+Pegvisomant: Opioid Analgesics may diminish the therapeutic effect of Pegvisomant. Risk C: Monitor therapy
+Perampanel: May enhance the CNS depressant effect of CNS Depressants. Management: Patients taking perampanel with any other drug that has CNS depressant activities should avoid complex and high-risk activities, particularly those such as driving that require alertness and coordination, until they have experience using the combination. Risk D: Consider therapy modification
+Piribedil: CNS Depressants may enhance the CNS depressant effect of Piribedil. Risk C: Monitor therapy
+Pramipexole: CNS Depressants may enhance the sedative effect of Pramipexole. Risk C: Monitor therapy
+Propofol: Alfentanil may enhance the adverse/toxic effect of Propofol. Specifically the development of opisthotonus (severe hyperextension and spasticity resulting in arching or bridging position) and/or tonic clonic seizures. Risk C: Monitor therapy
+Ramosetron: Opioid Analgesics may enhance the constipating effect of Ramosetron. Risk C: Monitor therapy
+Rifamycin Derivatives: May decrease the serum concentration of Alfentanil. Management: Monitor closely for decreased alfentanil effectiveness. Increased alfentanil doses will likely be needed. Alternatively, changing from alfentanil to a different opioid anesthetic (e.g., sufentanil) may also be considered. Risk D: Consider therapy modification
+ROPINIRole: CNS Depressants may enhance the sedative effect of ROPINIRole. Risk C: Monitor therapy
+Rotigotine: CNS Depressants may enhance the sedative effect of Rotigotine. Risk C: Monitor therapy
+Rufinamide: May enhance the adverse/toxic effect of CNS Depressants. Specifically, sleepiness and dizziness may be enhanced. Risk C: Monitor therapy
+Selective Serotonin Reuptake Inhibitors: CNS Depressants may enhance the adverse/toxic effect of Selective Serotonin Reuptake Inhibitors. Specifically, the risk of psychomotor impairment may be enhanced. Risk C: Monitor therapy
+Serotonin Modulators: Opioid Analgesics may enhance the serotonergic effect of Serotonin Modulators. This could result in serotonin syndrome. Exceptions: Nicergoline. Risk C: Monitor therapy
+Simeprevir: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Risk C: Monitor therapy
+Sodium Oxybate: May enhance the CNS depressant effect of CNS Depressants. Management: Consider alternatives to combined use. When combined use is needed, consider minimizing doses of one or more drugs. Use of sodium oxybate with alcohol or sedative hypnotics is contraindicated. Risk D: Consider therapy modification
+Stiripentol: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Management: Use of stiripentol with CYP3A4 substrates that are considered to have a narrow therapeutic index should be avoided due to the increased risk for adverse effects and toxicity. Any CYP3A4 substrate used with stiripentol requires closer monitoring. Risk D: Consider therapy modification
+Succinylcholine: May enhance the bradycardic effect of Opioid Analgesics. Risk C: Monitor therapy
+Suvorexant: CNS Depressants may enhance the CNS depressant effect of Suvorexant. Management: Dose reduction of suvorexant and/or any other CNS depressant may be necessary. Use of suvorexant with alcohol is not recommended, and the use of suvorexant with any other drug to treat insomnia is not recommended. Risk D: Consider therapy modification
+Tapentadol: May enhance the CNS depressant effect of CNS Depressants. Management: Avoid concomitant use of tapentadol and benzodiazepines or other CNS depressants when possible. These agents should only be combined if alternative treatment options are inadequate. If combined, limit the dosages and duration of each drug. Risk D: Consider therapy modification
+Tetrahydrocannabinol: May enhance the CNS depressant effect of CNS Depressants. Risk C: Monitor therapy
+Thalidomide: CNS Depressants may enhance the CNS depressant effect of Thalidomide. Risk X: Avoid combination
+Zolpidem: CNS Depressants may enhance the CNS depressant effect of Zolpidem. Management: Reduce the Intermezzo brand sublingual zolpidem adult dose to 1.75 mg for men who are also receiving other CNS depressants. No such dose change is recommended for women. Avoid use with other CNS depressants at bedtime; avoid use with alcohol. Risk D: Consider therapy modification
+Pregnancy Implications
+Adverse events have been observed in some animal reproduction studies. Alfentanil is known to cross the placenta, which may result in severe respiratory depression in the newborn (Mattingly 2003). When used for pain relief during labor, opioids may temporarily affect the heart rate of the fetus (ACOG 2002). Use during labor and immediately prior to labor is not recommended by the manufacturer.
+Monitoring Parameters
+Respiratory rate, blood pressure, heart rate, neurological status (for degree of analgesia/anesthesia)
+Mechanism of Action
+Binds with stereospecific receptors at many sites within the CNS, increases pain threshold, alters pain perception, inhibits ascending pain pathways; is an ultra short-acting opioid
+Pharmacodynamics/Kinetics (Adult data unless noted)
+Note: An early study of continuous infusion suggested nonlinear pharmacokinetics in neonates (Wiest 1991).
+Onset of action: Rapid, within 5 minutes 
+Duration (dose dependent): 30 to 60 minutes 
+Distribution: Vd: 
+Newborns (premature): 0.5 to 0.6 L/kg (Davis 1988; Marlow 1990)
+Children: 0.163 to 0.4 L/kg (Davis 1989; Meistelman 1987)
+Adults: 0.4 to 1 L/kg 
+Protein binding:
+Neonates: 67%
+Adults: 88% to 92%
+Bound to alpha1-acid glycoprotein 
+Metabolism: Hepatic
+Half-life elimination:
+Newborns (premature): 5.33 to 9 hours (Davis 1988; Marlow 1990)
+Children: 40 to 63 minutes (Davis 1988; Meistelman 1987; Roure 1987)
+Adults: 90 to 111 minutes 
+Excretion: Only 1% of dose is excreted unchanged; urine (major route of elimination of metabolites)
+Pricing: US
+Injection (Alfentanil Injection)
+500 mcg/mL (2 mL): $4.34
