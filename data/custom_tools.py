@@ -19,7 +19,9 @@ class DuckDuckGoSearchTool(BaseTool):
         results = ddg.text(query, max_results=5)
         if not results:
             return "No results found."
-        return "".join([f"Title: {res['title']}. {res['body']}" for res in results])
+        results = [f"Title: {res['title']}.\n Body: {res['body']}\n" for res in results]
+        print(results)
+        return "".join(results)
 
     async def _arun(self, query: str) -> str:
         """Run the search asynchronously."""
