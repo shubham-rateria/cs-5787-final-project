@@ -4,31 +4,51 @@ from torch.utils.data import Dataset, DataLoader
 
 # Custom Dataset to load data from one column of a CSV file
 class CSVDataset(Dataset):
-    def __init__(self, file_path, column_name, transform=None):
+    def __init__(self, file_path, transform=None):
         """
         Args:
             file_path (str): Path to the CSV file.
-            column_name (str): Name of the column to extract.
             transform (callable, optional): Optional transform to apply to the data.
         """
         # Load the CSV file
         self.data = pd.read_csv(file_path)
-        self.column_name = column_name
+        
+        # Reshape data into a single column with labels (0, 1, 2) for each category
+        self.texts = []
+        self.labels = []
+
+        # Iterate through the rows and create a dataset of text and its corresponding label
+        for index, row in self.data.iterrows():
+            # Add the text and its associated label for each of the three columns
+            self.texts.append(row['Supports'])
+            self.labels.append(0)  # label 0 for 'supports'
+
+            self.texts.append(row['Contradicts'])
+            self.labels.append(1)  # label 1 for 'contradicts'
+            
+            self.texts.append(row['Ambiguous'])
+            self.labels.append(2)  # label 2 for 'ambiguous'
+        
         self.transform = transform
 
     def __len__(self):
-        # Return the total number of rows in the column
-        return len(self.data)
+        return len(self.texts)
 
     def __getitem__(self, idx):
-        # Fetch the value from the specified column
-        value = self.data.iloc[idx][self.column_name]
-
-        # Convert to tensor
-        value = torch.tensor(value, dtype=torch.float32)
-
-        # Apply transformation if provided
+        # Get the text and the label for a specific index
+        text = self.texts[idx]
+        label = self.labels[idx]
+        
         if self.transform:
-            value = self.transform(value)
+            text = self.transform(text)
+        
+        return text, label
+    
+if __name__ == "__main__":
+    dataset = CSVDataset(file_path="data/csv/generated_claim_triplets_with_topics.csv")
+    data_loader = DataLoader(dataset, batch_size=32, shuffle=True)
+    
+    for batch in data_loader:
+        print(batch)
+        break
 
-        return value

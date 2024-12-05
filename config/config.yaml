@@ -1,0 +1,4 @@
+cross_encoder_model_name: pritamdeka/PubMedBERT-mnli-snli-scinli-stsb
+bi_encoder_model_name: pritamdeka/PubMedBERT-mnli-snli-scinli-stsb
+k: 10
+csv_file: /Users/rateria/Code/cs-5787-final-project/data/csv/generated_claim_triplets_with_topics.csv

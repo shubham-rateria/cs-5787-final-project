@@ -1,4 +1,7 @@
 import os
+import sys
+
+sys.path.append(os.path.join("..", os.getcwd()))
 
 import hydra
 import pandas as pd
@@ -11,14 +14,16 @@ from sentence_transformers import SentenceTransformer, util
 from sklearn.metrics import classification_report
 from tqdm import tqdm
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from src.dataset import CSVDataset
+from torch.utils.data import DataLoader
 
 from src.utils import remove_duplicate_strings
 
 device = "mps" if torch.backends.mps.is_available() else "cuda" if torch.cuda.is_available() else "cpu"
 
-csv_file= "generated_claim_triplets_with_topics.csv"
-csv_file_path = os.path.join("data", csv_file)
-data = pd.read_csv(csv_file_path)
+# csv_file= "generated_claim_triplets_with_topics.csv"
+# csv_file_path = os.path.join("data", csv_file)
+# data = pd.read_csv(csv_file_path)
 
 bi_encoder_model_name = "pritamdeka/PubMedBERT-mnli-snli-scinli-stsb"
 cross_encoder_model_path = "/content/drive/MyDrive/fine_tuned_cross_encoder"
@@ -29,9 +34,8 @@ class Retriever(nn.Module):
         super().__init__()
         self.bi_encoder = SentenceTransformer(cfg.bi_encoder_model_name)
         self.k = cfg.k
-        self.csv_file_path = os.path.join("data", cfg.csv_file)
-        self.data = pd.read_csv(self.csv_file_path)
-        self.evidence_pool = remove_duplicate_strings(data["Evidence"].dropna().tolist())
+        self.data = pd.read_csv(cfg.csv_file)
+        self.evidence_pool = remove_duplicate_strings(self.data["Evidence"].dropna().tolist())
         self.evidence_embeddings = self.bi_encoder.encode(self.evidence_pool, convert_to_tensor=True)
         
     def tokenize_and_embed(self, data):
@@ -46,7 +50,7 @@ class Retriever(nn.Module):
         x = self.bi_encoder.encode(x, convert_to_tensor=True)
         # scores -> b, num_evidences, each row is the cosine similarity b/w the claim
         # and all the evidences
-        cos_sim = torch.mm(x, self.evidence_embeddings)
+        cos_sim = torch.mm(x, self.evidence_embeddings.T)
         scores, indices = torch.topk(cos_sim, self.k, dim=1)
         evidences = [[self.evidence_pool[i] for i in row] for row in indices]
         return scores, indices, evidences
@@ -68,11 +72,49 @@ class Ranker(nn.Module):
         # evidence_pool -> list of evidence strings
         # create claim embedding pair
         pairs = [[f"{claim} [SEP] {evidence}" for evidence in evidence_pool] for claim in x]
-        tokenized = self.tokenizer(*pairs, padding=True, truncation="max_length", return_tensors="pt", max_length=100)
+        tokenized = self.tokenizer(*pairs, padding=True, truncation="longest_first", return_tensors="pt", max_length=100)
         h = self.cross_encoder(**tokenized, return_dict=False)
-        s_hat = torch.softmax(self.mlp(h), dim=1)
+        s_hat = torch.softmax(h[0], dim=1)
+        out = torch.softmax(self.mlp(h[0]), dim=1)
+        return out, s_hat
 
-@hydra.main(config_path="config", config_name="config")
-class RAV(pl.LightningModule):
-    def __init__(self, cfg: DictConfig):
-        super().__init__()
+# @hydra.main(config_path="../config", config_name="config")
+# class RAV(pl.LightningModule):
+#     def __init__(self, cfg: DictConfig):
+#         super().__init__()
+#         print("config", cfg)
+#         self.retriever = Retriever(cfg)
+#         self.ranker = Ranker(cfg)
+        
+@hydra.main(config_path="../config", config_name="config")
+def main(cfg: DictConfig):
+    dataset = CSVDataset(file_path="/Users/rateria/Code/cs-5787-final-project/data/csv/generated_claim_triplets_with_topics.csv")
+    data_loader = DataLoader(dataset, batch_size=1, shuffle=True)
+    retriever = Retriever(cfg)
+    ranker = Ranker(cfg)
+    for batch in data_loader:
+        print(batch)
+        x, y = batch
+        # rav = RAV()
+        # print(rav)
+        scores, indices, evidences = retriever(x)
+        print(scores, indices, evidences)
+        s_hat = ranker(x, evidences)
+        print(s_hat)
+        break
+        
+if __name__ == "__main__":
+    main()
+    # test retriever
+    # dataset = CSVDataset(file_path="data/csv/generated_claim_triplets_with_topics.csv")
+    # data_loader = DataLoader(dataset, batch_size=1, shuffle=True)
+    
+    # retriever, ranker = main()
+    
+    # for batch in data_loader:
+    #     print(batch)
+    #     # rav = RAV()
+    #     # print(rav)
+    #     scores, indices, evidences = retriever(batch)
+    #     print(scores, indices, evidences)
+    #     break
