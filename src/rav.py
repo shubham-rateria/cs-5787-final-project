@@ -15,6 +15,7 @@ from sklearn.metrics import classification_report
 from tqdm import tqdm
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from src.dataset import CSVDataset
+from src.multihead_attn import TransformerEncoder
 from torch.utils.data import DataLoader
 
 from src.utils import remove_duplicate_strings
@@ -32,7 +33,7 @@ class Retriever(nn.Module):
     """Given a list of evidences and a claim, this returns the top-k evidences"""
     def __init__(self, cfg: DictConfig):
         super().__init__()
-        self.bi_encoder = SentenceTransformer(cfg.bi_encoder_model_name)
+        self.bi_encoder = SentenceTransformer(cfg.bi_encoder_model_name, cache_folder="../cache")
         self.k = cfg.k
         self.data = pd.read_csv(cfg.csv_file)
         self.evidence_pool = remove_duplicate_strings(self.data["Evidence"].dropna().tolist())
@@ -58,7 +59,7 @@ class Retriever(nn.Module):
 class Ranker(nn.Module):
     def __init__(self, cfg: DictConfig):
         super().__init__()
-        self.cross_encoder = AutoModelForSequenceClassification.from_pretrained(cfg.cross_encoder_model_name)
+        self.cross_encoder = AutoModelForSequenceClassification.from_pretrained(cfg.cross_encoder_model_name, cache_dir="../cache")
         self.cross_encoder.classifier = nn.Identity()  # remove the last classifier layer
         self.mlp = nn.Sequential(
             nn.Linear(self.cross_encoder.config.hidden_size, 128),
@@ -71,12 +72,15 @@ class Ranker(nn.Module):
         # x -> b, claims
         # evidence_pool -> list of evidence strings
         # create claim embedding pair
-        pairs = [[f"{claim} [SEP] {evidence}" for evidence in evidence_pool] for claim in x]
+        pairs = [[f"[CLS] {claim} [SEP] {evidence}" for evidence in evidence_pool] for claim in x]
+        pairs = [pair for sublist in pairs for pair in sublist]
+        print(f"\nparis: {len(pairs)}\n")
         tokenized = self.tokenizer(*pairs, padding=True, truncation="longest_first", return_tensors="pt", max_length=100)
+        print(f"\nranker:tokenized: {tokenized.input_ids.shape}\n")
         h = self.cross_encoder(**tokenized, return_dict=False)
         s_hat = torch.softmax(h[0], dim=1)
         out = torch.softmax(self.mlp(h[0]), dim=1)
-        return out, s_hat
+        return out, h[0], s_hat
 
 # @hydra.main(config_path="../config", config_name="config")
 # class RAV(pl.LightningModule):
@@ -92,15 +96,18 @@ def main(cfg: DictConfig):
     data_loader = DataLoader(dataset, batch_size=1, shuffle=True)
     retriever = Retriever(cfg)
     ranker = Ranker(cfg)
+    attn = TransformerEncoder(num_layers=4, input_dim=768, num_heads=1, dim_feedforward=128)
     for batch in data_loader:
         print(batch)
         x, y = batch
         # rav = RAV()
         # print(rav)
         scores, indices, evidences = retriever(x)
-        print(scores, indices, evidences)
-        s_hat = ranker(x, evidences)
-        print(s_hat)
+        print(scores.shape, indices.shape, len(evidences))
+        out, h, s_hat = ranker(x, evidences)
+        print(h.shape)
+        enc_out = attn(h)
+        print(enc_out.shape)
         break
         
 if __name__ == "__main__":
