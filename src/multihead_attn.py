@@ -5,7 +5,7 @@ import math
 
 def scaled_dot_product(q, k, v, mask=None):
     d_k = q.size()[-1]
-    print(f"{q.shape}, {k.mT.shape}")
+    # print(f"{q.shape}, {k.mT.shape}")
     attn_logits = torch.matmul(q, k.mT)
     attn_logits = attn_logits / math.sqrt(d_k)
     if mask is not None:
@@ -28,26 +28,26 @@ class MultiHeadAttn(nn.Module):
         self.o_proj = nn.Linear(self.num_heads * self.embed_dim, self.embed_dim)
         
     def forward(self, x, mask=None, return_attention=True):
-        print(f"\n multihead_attn: {x.shape} \n")
+        # print(f"\n multihead_attn - x.shape: {x.shape} \n")
         b, t, _ = x.shape
         # qkv -> b, t, h * dim * 3
         qkv = self.qkv_proj(x)
-        print(f"qkv shape: {qkv.shape}")
+        # print(f"qkv shape: {qkv.shape}")
         qkv = qkv.reshape(b, t, self.num_heads * self.embed_dim, 3)
-        print(f"Reshaped qkv shape: {qkv.shape}")
+        # print(f"Reshaped qkv shape: {qkv.shape}")
         q, k, v = qkv.chunk(3, dim=-1)
         q = q.squeeze(-1)
         k = k.squeeze(-1)
         v = v.squeeze(-1)
-        print(f"q shape: {q.shape}, k shape: {k.shape}, v shape: {v.shape}")
+        # print(f"q shape: {q.shape}, k shape: {k.shape}, v shape: {v.shape}")
         
         values, attention = scaled_dot_product(q, k, v)
-        print(f"Values shape: {values.shape}, Attention shape: {attention.shape}")
+        # print(f"Values shape: {values.shape}, Attention shape: {attention.shape}")
         
         # values = values.reshape(b, t, self.num_heads * self.embed_dim)
         # print(f"Reshaped values shape: {values.shape}")
         output = self.o_proj(values)
-        print(f"Output shape: {output.shape}")
+        # print(f"Output shape: {output.shape}")
         
         if return_attention:
             return output, attention

@@ -6,6 +6,7 @@ sys.path.append(os.path.join("..", os.getcwd()))
 import hydra
 import pandas as pd
 import pytorch_lightning as pl
+import numpy as np
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -59,28 +60,30 @@ class Retriever(nn.Module):
 class Ranker(nn.Module):
     def __init__(self, cfg: DictConfig):
         super().__init__()
-        self.cross_encoder = AutoModelForSequenceClassification.from_pretrained(cfg.cross_encoder_model_name, cache_dir="../cache")
-        self.cross_encoder.classifier = nn.Identity()  # remove the last classifier layer
-        self.mlp = nn.Sequential(
-            nn.Linear(self.cross_encoder.config.hidden_size, 128),
-            nn.ReLU(),
-            nn.Linear(128, 3)
-        )
+        # self.cross_encoder = AutoModelForSequenceClassification.from_pretrained(cfg.cross_encoder_model_name, cache_dir="../cache")
+        self.cross_encoder = SentenceTransformer(cfg.bi_encoder_model_name, cache_folder="../cache")
+        # self.cross_encoder.classifier = nn.Identity()  # remove the last classifier layer
         self.tokenizer = AutoTokenizer.from_pretrained(cfg.cross_encoder_model_name)
+        hidden_size = self.cross_encoder.config.hidden_size
+        self.scorer = nn.Linear(hidden_size, 1)
         
     def forward(self, x, evidence_pool):
-        # x -> b, claims
+        # x -> b, claim
         # evidence_pool -> list of evidence strings
         # create claim embedding pair
-        pairs = [[f"[CLS] {claim} [SEP] {evidence}" for evidence in evidence_pool] for claim in x]
-        pairs = [pair for sublist in pairs for pair in sublist]
-        print(f"\nparis: {len(pairs)}\n")
-        tokenized = self.tokenizer(*pairs, padding=True, truncation="longest_first", return_tensors="pt", max_length=100)
-        print(f"\nranker:tokenized: {tokenized.input_ids.shape}\n")
-        h = self.cross_encoder(**tokenized, return_dict=False)
-        s_hat = torch.softmax(h[0], dim=1)
-        out = torch.softmax(self.mlp(h[0]), dim=1)
-        return out, h[0], s_hat
+        # pairs = [[f"[CLS] {claim} [SEP] {evidence}" for evidence in evidence_pool] for claim in x]
+        pairs = []
+        embeddings = []
+        all_scores = []
+        for i, claim in enumerate(x):
+            evidences = evidence_pool[i]
+            claim_pairs = [f"[CLS] {claim} [SEP] {evidence} [SEP]" for evidence in evidences]
+            encoded = self.cross_encoder.encode(claim_pairs, convert_to_tensor=True)
+            embeddings.append(encoded)
+        
+            # tokenized = self.tokenizer(claim_pairs, padding=True, truncation="longest_first", return_tensors="pt", max_length=100)
+        # out = torch.softmax(self.mlp(embeddings), dim=1)
+        return embeddings
 
 # @hydra.main(config_path="../config", config_name="config")
 # class RAV(pl.LightningModule):
@@ -104,6 +107,7 @@ def main(cfg: DictConfig):
         # print(rav)
         scores, indices, evidences = retriever(x)
         print(scores.shape, indices.shape, len(evidences))
+        # print(f"\n{evidences}\n")
         out, h, s_hat = ranker(x, evidences)
         print(h.shape)
         enc_out = attn(h)
