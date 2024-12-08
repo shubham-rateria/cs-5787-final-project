@@ -26,7 +26,16 @@ class MultiHeadAttn(nn.Module):
         # qkv_proj = h * d_k *3, output = b, t, h * d_k * 3
         self.qkv_proj = nn.Linear(input_dim, self.num_heads * self.embed_dim * 3)
         self.o_proj = nn.Linear(self.num_heads * self.embed_dim, self.embed_dim)
-        
+    
+        self._reset_parameters()
+    
+    def _reset_parameters(self):
+        # Original Transformer initialization, see PyTorch documentation
+        nn.init.xavier_uniform_(self.qkv_proj.weight)
+        self.qkv_proj.bias.data.fill_(0)
+        nn.init.xavier_uniform_(self.o_proj.weight)
+        self.o_proj.bias.data.fill_(0)
+    
     def forward(self, x, mask=None, return_attention=True):
         # print(f"\n multihead_attn - x.shape: {x.shape} \n")
         b, t, _ = x.shape

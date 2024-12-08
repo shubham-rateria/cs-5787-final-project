@@ -1,5 +1,8 @@
 cross_encoder_model_name: pritamdeka/PubMedBERT-mnli-snli-scinli-stsb
 bi_encoder_model_name: pritamdeka/PubMedBERT-mnli-snli-scinli-stsb
 k: 10
-batch_size: 10
+batch_size: 128
+lr: 0.0001
+num_workers: 1
 csv_file: /Users/rateria/Code/cs-5787-final-project/data/csv/generated_claim_triplets_with_topics.csv
+base_path:  /Users/rateria/Code/cs-5787-final-project
