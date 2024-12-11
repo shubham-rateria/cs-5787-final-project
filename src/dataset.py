@@ -77,5 +77,5 @@ if __name__ == "__main__":
     # for batch in data_loader:
     #     print(batch)
     #     break
-    split_csv_file("data/csv/generated_claim_triplets_with_topics.csv", "data/csv/train.csv", "data/csv/val.csv", "data/csv/test.csv")
+    split_csv_file("data/csv/combined_file.csv", "data/csv/train.csv", "data/csv/val.csv", "data/csv/test.csv")
 
