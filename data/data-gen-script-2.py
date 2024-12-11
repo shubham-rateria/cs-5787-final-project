@@ -245,8 +245,8 @@ def init_files(output_file, log_file):
 
 # %%
 # File paths
-log_file = os.path.join('.', 'csv', 'process_log.csv')
-output_file = os.path.join('.', 'csv', 'generated_claim_triplets_with_topics.csv')
+log_file = os.path.join('.', 'csv', 'process_log-temp-for-report.csv')
+output_file = os.path.join('.', 'csv', 'generated_claim_triplets_with_topics-temp-for-report.csv')
 input_file = os.path.join('.', 'csv', 'categorized_content_links_unique.csv')
 
 # OpenAI API key

@@ -1,0 +1,226 @@
+Adalimumab (including biosimilars of adalimumab): Drug informationAccess Lexicomp Online here.Copyright 1978-2018 Lexicomp, Inc. All rights reserved.(For additional information see "Adalimumab (including biosimilars of adalimumab): Patient drug information" and see "Adalimumab (including biosimilars of adalimumab): Pediatric drug information")For abbreviations and symbols that may be used in Lexicomp (show table)ALERT: US Boxed Warning
+
+Serious infections:
+Patients treated with adalimumab are at increased risk of developing serious infections that may lead to hospitalization or death. Most patients who developed these infections were taking concomitant immunosuppressants, such as methotrexate or corticosteroids.
+Discontinue adalimumab if a patient develops a serious infection or sepsis. Reported infections include the following:
+Active tuberculosis (TB), including reactivation of latent TB. Patients with TB frequently have presented with disseminated or extrapulmonary disease. Test patients for latent TB before adalimumab use and during therapy. Initiate treatment for latent infection prior to adalimumab use.
+Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis. Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease. Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection. Consider empiric antifungal therapy in patients at risk of invasive fungal infections who develop severe systemic illness.
+Bacterial, viral, and other infections caused by opportunistic pathogens, including Legionella and Listeria.
+Carefully consider the risks and benefits of treatment with adalimumab prior to initiating therapy in patients with chronic or recurrent infection.
+Monitor patients closely for the development of signs and symptoms of infection during and after treatment with adalimumab, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy.
+Malignancy:
+Lymphoma and other malignancies, some fatal, have been reported in children and adolescents treated with tumor necrosis factor (TNF)–blockers, including adalimumab. Postmarketing cases of hepatosplenic T-cell lymphoma (HSTCL), a rare type of T-cell lymphoma, have been reported in patients treated with TNF-blockers, including adalimumab. These cases have had a very aggressive disease course and have been fatal. The majority of reported TNF-blocker cases have occurred in patients with Crohn disease or ulcerative colitis and the majority were in adolescent and young adult males. Almost all these patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with a TNF-blocker at or prior to diagnosis. It is uncertain whether the occurrence of HSTCL is related to use of a TNF-blocker or a TNF-blocker in combination with these other immunosuppressants.
+Brand Names: US
+Humira;
+Humira Pediatric Crohns Start;
+Humira Pen;
+Humira Pen-Crohns Starter;
+Humira Pen-Psoriasis Starter
+Brand Names: Canada
+Humira
+Pharmacologic Category
+ Antirheumatic, Disease Modifying;
+ Gastrointestinal Agent, Miscellaneous;
+ Monoclonal Antibody;
+ Tumor Necrosis Factor (TNF) Blocking Agent
+Dosing: Adult
+Note: Amjevita (adalimumab-atto) and Cyltezo (adalimumab-adbm) are approved as biosimilar agents to Humira. Approved uses may vary (consult product labeling).
+Ankylosing spondylitis: SubQ: 40 mg every other week (may continue methotrexate, other nonbiologic DMARDS, corticosteroids, NSAIDs and/or analgesics)
+Crohn disease: SubQ (may continue aminosalicylates and/or corticosteroids; if necessary, azathioprine, mercaptopurine, or methotrexate may also be continued):
+Initial: 160 mg (given on day 1 or split and given over 2 consecutive days), then 80 mg 2 weeks later (day 15).
+Maintenance: 40 mg every other week beginning day 29. Note: Some patients may require 40 mg every week as maintenance therapy (Lichtenstein 2009).
+Hidradenitis suppurativa (Humira only): SubQ:
+Maintenance: 40 mg every week beginning day 29.
+Plaque psoriasis: SubQ:
+Initial: 80 mg as a single dose
+Maintenance: 40 mg every other week beginning 1 week after initial dose
+Psoriatic arthritis: SubQ: 40 mg every other week (may continue methotrexate, other nonbiologic DMARDS, corticosteroids, NSAIDs and/or analgesics)
+Pyoderma gangrenosum 
+(off-label use): SubQ: 40 to 80 mg every week or every other week (Fonder 2006; Heffernan 2007; Hubbard 2005; Jacob 2008). Additional data may be necessary to further define the role of adalimumab in the treatment of this condition.
+Rheumatoid arthritis: SubQ: 40 mg every other week (may continue methotrexate, other nonbiologic DMARDS, corticosteroids, NSAIDs, and/or analgesics); patients not taking concomitant methotrexate may increase dose to 40 mg every week
+Ulcerative colitis: SubQ (may continue aminosalicylates and/or corticosteroids; if necessary, azathioprine, or mercaptopurine may also be continued):
+Maintenance: 40 mg every other week beginning day 29. Note: Only continue maintenance dose in patients demonstrating clinical remission by 8 weeks (day 57) of therapy.
+Uveitis (Humira only): SubQ:
+Dosing: Pediatric(For additional information see "Adalimumab (including biosimilars of adalimumab): Pediatric drug information")
+Crohn disease (Humira only): SubQ:
+Children ≥6 years and Adolescents:
+17 kg to <40 kg:
+Initial: 80 mg (given on day 1), then 40 mg 2 weeks later (day 15).
+Maintenance: 20 mg every other week beginning week 4 (day 29).
+≥40 kg:
+Initial: 160 mg (given on day 1 or split and given over 2 consecutive days), then 80 mg 2 weeks later (day 15; given as two 40 mg injections on the same day).
+Maintenance: 40 mg every other week beginning week 4 (day 29).
+Juvenile idiopathic arthritis (JIA): SubQ:
+Children ≥2 years (Humira) or ≥4 years (Amjevita; Cyltezo) and Adolescents:
+May continue methotrexate, corticosteroids, NSAIDs and/or analgesics.
+Humira (only): 10 to <15 kg: 10 mg every other week
+Amjevita and Humira: 15 kg to <30 kg: 20 mg every other week
+Amjevita, Cyltezo, and Humira: ≥30 kg: 40 mg every other week
+BSA-based dosing (off-label):
+2 to <4 years or ≥4 years and <15 kg: 24 mg/m2/dose (maximum: 20 mg/dose) every other week (Kingsbury 2014)
+4 to 17 years: 24 mg/m2/dose (maximum: 40 mg/dose) every other week (Lovell 2008)
+Uveitis (Humira only): Limited data available; dosing regimens variable; SubQ:
+Body surface area-directed dosing: Children ≥4 years and Adolescents: 24 or 40 mg/m2 every 2 weeks; maximum dose 40 mg/dose (Gallagher 2007; Simonini 2011). Dosing based on one prospective trial comparing 24 mg/m2/dose every 2 weeks of adalimumab (n=16, ages 6 to 12 years) to infliximab (n=17, ages 5 to 13 years) and on a retrospective trial of biologic response modifiers, including five patients who received adalimumab at 40 mg/m2/dose every 2 weeks.
+Weight-directed dosing: Children ≥2 years and Adolescents (Biester 2007; Sens 2012; Tynjala 2008):
+<30 kg: 20 mg every other week
+>30 kg: 40 mg every other week
+Dosing: Geriatric
+Refer to adult dosing.
+Dosing: Renal Impairment
+There are no dosage adjustments provided in the manufacturer's labeling (has not been studied).
+Dosing: Hepatic Impairment
+Dosage Forms
+Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+Pen-injector Kit, Subcutaneous [preservative free]: 
+Humira Pen: 40 mg/0.8 mL (1 ea) [contains polysorbate 80]
+Humira Pen-Crohns Starter: 40 mg/0.8 mL (1 ea) [contains polysorbate 80]
+Humira Pen-Psoriasis Starter: 40 mg/0.8 mL (1 ea) [contains polysorbate 80]
+Prefilled Syringe Kit, Subcutaneous [preservative free]: 
+Humira: 10 mg/0.2 mL (1 ea); 20 mg/0.4 mL (1 ea); 40 mg/0.8 mL (1 ea) [contains polysorbate 80]
+Humira Pediatric Crohns Start: 40 mg/0.8 mL (1 ea) [contains polysorbate 80]
+Generic Equivalent Available (US)
+No
+Dosage Forms: Canada
+Information with regard to form, strength, and availability of products uniquely available in Canada but currently not available in the US. Refer also to Dosage forms.
+Injection, solution [preservative free]:
+Humira: 40 mg/0.4 mL (0.4 mL); 40 mg/0.8 mL (0.8 mL) [contains polysorbate 80; pen or pre-filled syringe]
+Injection, solution [pediatric, preservative free]:
+Humira: 40 mg/0.8 mL (0.8 mL) [vial] [contains polysorbate 80]
+Product Availability
+Amjevita (adalimumab-atto): FDA approved September 2016; anticipated availability is currently unknown. Amjevita is approved as biosimilar to Humira. Consult the prescribing information for additional information.
+Cyltezo (adalimumab-adbm): FDA approved August 2017; anticipated availability is currently unknown. Cyltezo is approved as biosimilar to Humira. Information pertaining to this product within the monograph is pending revision. Consult the prescribing information for additional information.
+Medication Guide and/or Vaccine Information Statement (VIS)
+An FDA-approved patient medication guide, which is available with the product information and as follows, must be dispensed with this medication:
+Amjevita (adalimumab-atto): http://www.fda.gov/downloads/Drugs/DrugSafety/UCM524671.pdf
+Cyltezo (adalimumab-adbm): https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761058lbl.pdf#page=30
+Humira: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125057s403lbl.pdf#page=53
+Administration
+SubQ: For SubQ injection at separate sites in the thigh or lower abdomen (avoiding areas within 2 inches of navel); rotate injection sites. May leave at room temperature for ~15 to 30 minutes prior to use; do not remove cap or cover while allowing product to reach room temperature. Do not use if solution is discolored or contains particulate matter. Do not administer to skin which is red, tender, bruised, hard, or that has scars, stretch marks, or psoriasis plaques. Needle cap of the prefilled syringe or needle cover for the adalimumab pen may contain latex. Prefilled pens and syringes are available for use by patients and the full amount of the syringe should be injected (self-administration); the vial is intended for institutional use only. Vials do not contain a preservative; discard unused portion.
+Use
+Ankylosing spondylitis: Treatment (to reduce signs/symptoms) of active ankylosing spondylitis in adults
+Crohn disease: Treatment (to reduce signs/symptoms and to induce and maintain clinical remission) of active Crohn disease (moderate to severe) in adults and pediatric patients ≥6 years (Humira only) with an inadequate response to conventional therapy or who have lost response to or are intolerant to infliximab.
+Hidradenitis suppurativa (Humira only): Treatment of moderate to severe hidradenitis suppurativa
+Juvenile idiopathic arthritis: Treatment (to reduce signs/symptoms) of active polyarticular juvenile idiopathic arthritis (moderate to severe) in pediatric patients ≥2 years (Humira) or ≥4 years (Amjevita; Cyltezo); may be used alone or in combination with methotrexate
+Plaque psoriasis: Treatment of chronic plaque psoriasis (moderate to severe) in adults who are candidates for systemic therapy or phototherapy, and when other systemic therapies are less appropriate (with close monitoring and regular follow-up)
+Psoriatic arthritis: Treatment (to reduce signs/symptoms, inhibit progression of structural damage, and improve physical function) of active psoriatic arthritis in adults; may be used alone or in combination with nonbiologic disease-modifying antirheumatic drugs (DMARDs)
+Rheumatoid arthritis: Treatment (to reduce signs/symptoms, induce major clinical response, inhibit progression of structural damage, and improve physical function) of active rheumatoid arthritis (moderate to severe) in adults; may be used alone or in combination with methotrexate or other nonbiologic DMARDs
+Ulcerative colitis: Treatment (to induce and sustain clinical remission) of active ulcerative colitis (moderate to severe) in adults who have had an inadequate response to immunosuppressants such as corticosteroids, azathioprine, or 6-mercaptopurine. (Note: Efficacy in patients that are intolerant to or no longer responsive to other TNF blockers has not been established.)
+Uveitis (Humira only): Treatment of non-infectious intermediate, posterior, and panuveitis in adults
+Use: Off-Label
+Pyoderma gangrenosum; Uveitis (children/adolescents)
+Medication Safety Issues
+Sound-alike/look-alike issues:
+Adalimumab may be confused with sarilumab.
+Humira may be confused with Humulin, Humalog
+Humira Pen may be confused with HumaPen Memoir (used with HumaLOG)
+Adverse Reactions
+>10%:
+Central nervous system: Headache (12%)
+Dermatologic: Skin rash (6% to 12%)
+Hematologic & oncologic: Positive ANA titer (12%)
+Immunologic: Antibody development (3% to 26%; significance unknown)
+Infection: Infection (children and adolescents: 45%)
+Local: Injection site reaction (5% to 20%; includes erythema, itching, hemorrhage, pain, swelling)
+Neuromuscular & skeletal: Increased creatine phosphokinase (15%)
+Respiratory: Upper respiratory tract infection (17%), sinusitis (11%)
+1% to 10%:
+Cardiovascular: Hypertension (5%), atrial fibrillation (<5%), cardiac arrest (<5%), cardiac arrhythmia (<5%), chest pain (<5%), coronary artery disease (<5%), deep vein thrombosis (<5%), hypertensive encephalopathy (<5%), myocardial infarction (<5%), palpitations (<5%), pericardial effusion (<5%), pericarditis (<5%), peripheral edema (<5%), subdural hematoma (<5%), syncope (<5%), tachycardia (<5%)
+Central nervous system: Confusion (<5%), myasthenia (<5%), paresthesia (<5%), torso pain (<5%)
+Dermatologic: Cellulitis, erysipelas
+Endocrine & metabolic: Hyperlipidemia (7%), hypercholesterolemia (6%), dehydration (<5%), ketosis (<5%), menstrual disease (<5%), parathyroid disease (<5%)
+Gastrointestinal: Nausea (9%), abdominal pain (7%), cholecystitis (<5%), cholelithiasis (<5%), esophagitis (<5%), gastrointestinal hemorrhage (<5%), vomiting (<5%), diverticulitis
+Genitourinary: Urinary tract infection (≤8%), hematuria (5%), cystitis (<5%), pelvic pain (<5%)
+Hematologic & oncologic: Adenoma (<5%), agranulocytosis (<5%), paraproteinemia (<5%), polycythemia (<5%), carcinoma (including breast, gastrointestinal, skin, urogenital), malignant lymphoma, malignant melanoma
+Hepatic: Increased serum alkaline phosphatase (5%), hepatic necrosis (<5%)
+Hypersensitivity: Hypersensitivity reaction (children 5% to 6%; adults 1%)
+Infection: Serious infection (4%; including dental caries, gastroenteritis, rotavirus, varicella), herpes simplex infection (≤4%), herpes zoster (≤4%), sepsis
+Local: Injection site reaction (8%; other than erythema, itching, hemorrhage, pain, swelling)
+Neuromuscular & skeletal: Back pain (6%), arthritis (<5%), arthropathy (<5%), bone disease (<5%), bone fracture (<5%), limb pain (<5%), muscle cramps (<5%), myasthenia (<5%), osteonecrosis (<5%), septic arthritis (<5%), synovitis (<5%), tendon disease (<5%), tremor (<5%), arthralgia (3%; plaque psoriasis)
+Ophthalmic: Cataract (<5%)
+Renal: Nephrolithiasis (<5%), pyelonephritis
+Respiratory: Flu-like symptoms (7%), asthma (<5%), bronchospasm (<5%), dyspnea (<5%), pleural effusion (<5%), respiratory depression (<5%), pharyngitis (juvenile idiopathic arthritis: ≤4%), pneumonia (≤4%), tuberculosis (including reactivation of latent infection; disseminated, miliary, lymphatic, peritoneal, and pulmonary)
+Miscellaneous: Accidental injury (10%), abnormal healing (<5%), postoperative complication (infection)
+<1%, postmarketing, and/or case reports: Abscess (limb, perianal), alopecia, anal fissure, anaphylactoid reaction, anaphylaxis, anemia, angioedema, aplastic anemia, appendicitis, bacterial infection, basal cell carcinoma, blepharitis, bronchitis, cardiac failure, cerebrovascular accident, cervical dysplasia, circulatory shock, clonus, cytopenia, dermal ulcer, diarrhea, diplopia, endometrial hyperplasia, eosinophilia, erythema multiforme, fever, fixed drug eruption, fulminant necrotizing fasciitis, fungal infection, Guillain-Barré syndrome, hepatic failure, hepatitis B (reactivation), hepatosplenic T-cell lymphomas (children, adolescents, and young adults), hepatotoxicity (idiosyncratic) (Chalasani 2014), histoplasmosis, hyperreflexia, hypersensitivity angiitis, increased serum transaminases, interstitial pulmonary disease (eg, pulmonary fibrosis), intestinal obstruction, intestinal perforation, leukemia, leukopenia, liver metastases, lupus-like syndrome, lymphadenopathy, lymphocytosis, malignant neoplasm of ovary, meningitis (viral), Merkel cell carcinoma, multiple sclerosis, musculoskeletal chest pain, mycobacterium avium complex, myositis (children and adolescents), neutropenia, nocturia, optic neuritis, pancreatitis, pancytopenia, protozoal infection, psoriasis (including new onset, palmoplantar, pustular, or exacerbation), pulmonary embolism, respiratory failure, sarcoidosis, septic shock, skin granuloma (annulare; children and adolescents), Stevens-Johnson syndrome, streptococcal pharyngitis (children and adolescents), supraventricular cardiac arrhythmia, swelling of eye, systemic lupus erythematosus, testicular neoplasm, thrombocytopenia, urticaria, vascular disease, vasculitis (systemic), viral infection, weakness
+Contraindications
+There are no contraindications listed in the manufacturer's US labeling.
+Canadian labeling: Known hypersensitivity to adalimumab or any component of the formulation; severe infection (eg, sepsis, tuberculosis, opportunistic infection); moderate-to-severe heart failure (NYHA class III/IV)
+Warnings/Precautions
+Concerns related to adverse effects:
+• Anaphylaxis/hypersensitivity reactions: May rarely cause hypersensitivity, anaphylaxis, anaphylactoid reactions, or angioneurotic edema; medications for the treatment of hypersensitivity reactions should be available for immediate use.
+• Autoimmune disorder: Positive antinuclear antibody titers have been detected in patients (with negative baselines). Rare cases of autoimmune disorder, including lupus-like syndrome, have been reported; monitor and discontinue if symptoms develop.
+• Demyelinating disease: Rare cases of new-onset or exacerbation of demyelinating disorders (eg, multiple sclerosis, optic neuritis, peripheral demyelinating disease, including Guillain-Barré syndrome) have been reported; there is a known association between intermediate uveitis and central demyelinating disorders. Consider discontinuing use in patients who develop peripheral or central nervous system demyelinating disorders during treatment. Use with caution in patients with preexisting or recent onset central or peripheral nervous system demyelinating disorders.
+• Heart failure: Worsening and new-onset heart failure (HF) has been reported with adalimumab and other TNF blockers. Use with caution in patients with HF or decreased left ventricular function. In a scientific statement from the American Heart Association, TNF blockers have been determined to be agents that may either cause direct myocardial toxicity or exacerbate underlying myocardial dysfunction (magnitude: major) (AHA [Page 2016]).
+• Hematologic disorders: Rare cases of pancytopenia and aplastic anemia have been reported with TNF-blockers. Patients must be advised to seek medical attention if they develop signs and symptoms suggestive of blood dyscrasias; discontinue if significant hematologic abnormalities are confirmed. Use with caution in patients with a history of significant hematologic abnormalities.
+• Hepatitis B: Rare reactivation of hepatitis B (HBV) has occurred in chronic carriers of the virus, usually in patients receiving concomitant immunosuppressants (some have been fatal); evaluate for HBV prior to initiation in all patients. Monitor during and for several months following discontinuation of treatment in HBV carriers; interrupt therapy if reactivation occurs and treat appropriately with antiviral therapy; if resumption of therapy is deemed necessary, exercise caution and monitor patient closely.
+• Infections: [US Boxed Warning]: Patients receiving adalimumab are at increased risk for serious infections which may result in hospitalization and/or fatality; infections usually developed in patients receiving concomitant immunosuppressive agents (eg, methotrexate, corticosteroids) and may present as disseminated (rather than local) disease. Active tuberculosis (including reactivation of latent tuberculosis), invasive fungal (including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, and pneumocystosis) and bacterial, viral or other opportunistic infections (including legionellosis and listeriosis) have been reported. Monitor closely for signs/symptoms of infection during and after treatment. Discontinue for serious infection or sepsis. Consider risks versus benefits prior to initiating therapy in patients with chronic or recurrent infection. Consider empiric antifungal therapy in patients who are at risk for invasive fungal infections who develop severe systemic illness. Caution should be exercised when considering use in the elderly, patients with a history of an opportunistic infection, patients taking concomitant immunosuppressants (eg, corticosteroids, methotrexate), or in patients with conditions that predispose them to infections (eg, advanced or poorly controlled diabetes) or residence/travel in areas of endemic tuberculosis or mycoses (blastomycosis, coccidioidomycosis, histoplasmosis), or with latent infections. Do not initiate adalimumab in patients with an active infection, including clinically important localized infection. Patients who develop a new infection while undergoing treatment should be monitored closely.
+• Malignancy: [US Boxed Warning]: Lymphoma and other malignancies (some fatal) have been reported in children and adolescents receiving TNF-blocking agents, including adalimumab. Half of the malignancies reported in children and adolescents were lymphomas (Hodgkin and non-Hodgkin) while other cases varied and included rare malignancies usually associated with immunosuppression and malignancies not typically observed in this population. Most patients were receiving concomitant immunosuppressants. [US Boxed Warning]: Hepatosplenic T-cell lymphoma (HSTCL), a rare T-cell lymphoma, has been reported (some fatal) primarily in patients with Crohn disease or ulcerative colitis treated with adalimumab and who received concomitant azathioprine or mercaptopurine; reports occurred predominantly in adolescent and young adult males. The impact of adalimumab on the development and course of malignancy is not fully defined. Compared to the general population, an increased risk of lymphoma has been noted in clinical trials; however, rheumatoid arthritis alone has been previously associated with an increased rate of lymphoma and leukemia. A higher incidence of nonmelanoma skin cancers was noted in adalimumab-treated patients (0.7/100 patient years), when compared to the control group (0.2/100 patient years).
+• Tuberculosis: [US Boxed Warnings]: Active tuberculosis (disseminated or extrapulmonary), including reactivation of latent tuberculosis, has been reported in patients receiving adalimumab. Evaluate patients for tuberculosis risk factors and latent tuberculosis infection (with a skin test) prior to and during therapy. Treatment for latent tuberculosis should be initiated before use. Patients with initial negative tuberculin skin tests should receive continued monitoring for tuberculosis during and after treatment. Consider antituberculosis treatment if an adequate course of treatment cannot be confirmed in patients with a history of latent or active tuberculosis or with risk factors despite negative skin test. Some patients who tested negative prior to therapy have developed active infection; tests for latent tuberculosis infection may be falsely negative while on adalimumab therapy. Use with caution in patients who have traveled to or resided in regions where tuberculosis is endemic. Monitor for signs and symptoms of tuberculosis in all patients.
+Concurrent drug therapy issues:
+• Drug-drug interactions: Potentially significant interactions may exist, requiring dose or frequency adjustment, additional monitoring, and/or selection of alternative therapy. Consult drug interactions database for more detailed information.
+Special populations:
+• Elderly: Infection and malignancy has been reported at a higher incidence; use caution in elderly patients.
+• Pediatric: Malignancies have been reported among children and adolescents.
+• Surgery patients: Limited experience with patients undergoing surgical procedures while on therapy; consider long half-life with planned procedures. Monitor closely for infection.
+Dosage form specific issues:
+• Latex: The packaging (needle cover of prefilled syringe and autoinjector) may contain latex.
+• Polysorbate 80: Some dosage forms may contain polysorbate 80 (also known as Tweens). Hypersensitivity reactions, usually a delayed reaction, have been reported following exposure to pharmaceutical products containing polysorbate 80 in certain individuals (Isaksson 2002; Lucente 2000; Shelley 1995). Thrombocytopenia, ascites, pulmonary deterioration, and renal and hepatic failure have been reported in premature neonates after receiving parenteral products containing polysorbate 80 (Alade 1986; CDC 1984). See manufacturer's labeling.
+Other warnings/precautions:
+• Immunizations: Patients should be brought up to date with all immunizations before initiating therapy; live vaccines should not be given concurrently. There are no data available concerning the effects of therapy on vaccination or secondary transmission of live vaccines in patients receiving therapy.
+Metabolism/Transport Effects
+None known.
+Drug Interactions
+(For additional information: Launch drug interactions program)Abatacept: Anti-TNF Agents may enhance the adverse/toxic effect of Abatacept. An increased risk of serious infection during concomitant use has been reported. Risk X: Avoid combination
+Anakinra: Anti-TNF Agents may enhance the adverse/toxic effect of Anakinra. An increased risk of serious infection during concomitant use has been reported. Risk X: Avoid combination
+BCG (Intravesical): Immunosuppressants may diminish the therapeutic effect of BCG (Intravesical). Risk X: Avoid combination
+Belimumab: Monoclonal Antibodies may enhance the adverse/toxic effect of Belimumab. Risk X: Avoid combination
+Canakinumab: Anti-TNF Agents may enhance the adverse/toxic effect of Canakinumab. Specifically, the risk for serious infections and/or neutropenia may be increased. Risk X: Avoid combination
+Certolizumab Pegol: Anti-TNF Agents may enhance the immunosuppressive effect of Certolizumab Pegol. Risk X: Avoid combination
+Coccidioides immitis Skin Test: Immunosuppressants may diminish the diagnostic effect of Coccidioides immitis Skin Test. Risk C: Monitor therapy
+CycloSPORINE (Systemic): Adalimumab may decrease the serum concentration of CycloSPORINE (Systemic). Risk C: Monitor therapy
+Denosumab: May enhance the adverse/toxic effect of Immunosuppressants. Specifically, the risk for serious infections may be increased. Risk C: Monitor therapy
+Echinacea: May diminish the therapeutic effect of Immunosuppressants. Risk D: Consider therapy modification
+Fingolimod: Immunosuppressants may enhance the immunosuppressive effect of Fingolimod. Management: Avoid the concomitant use of fingolimod and other immunosuppressants when possible. If combined, monitor patients closely for additive immunosuppressant effects (eg, infections). Risk D: Consider therapy modification
+InFLIXimab: Adalimumab may enhance the immunosuppressive effect of InFLIXimab. Risk X: Avoid combination
+Leflunomide: Immunosuppressants may enhance the adverse/toxic effect of Leflunomide. Specifically, the risk for hematologic toxicity such as pancytopenia, agranulocytosis, and/or thrombocytopenia may be increased. Management: Consider not using a leflunomide loading dose in patients receiving other immunosuppressants. Patients receiving both leflunomide and another immunosuppressant should be monitored for bone marrow suppression at least monthly. Risk D: Consider therapy modification
+Natalizumab: Immunosuppressants may enhance the adverse/toxic effect of Natalizumab. Specifically, the risk of concurrent infection may be increased. Risk X: Avoid combination
+Nivolumab: Immunosuppressants may diminish the therapeutic effect of Nivolumab. Risk D: Consider therapy modification
+Ocrelizumab: May enhance the immunosuppressive effect of Immunosuppressants. Risk C: Monitor therapy
+Pidotimod: Immunosuppressants may diminish the therapeutic effect of Pidotimod. Risk C: Monitor therapy
+Pimecrolimus: May enhance the adverse/toxic effect of Immunosuppressants. Risk X: Avoid combination
+Rilonacept: Anti-TNF Agents may enhance the adverse/toxic effect of Rilonacept. Risk X: Avoid combination
+Roflumilast: May enhance the immunosuppressive effect of Immunosuppressants. Risk D: Consider therapy modification
+Sipuleucel-T: Immunosuppressants may diminish the therapeutic effect of Sipuleucel-T. Risk C: Monitor therapy
+Tacrolimus (Topical): May enhance the adverse/toxic effect of Immunosuppressants. Risk X: Avoid combination
+Tertomotide: Immunosuppressants may diminish the therapeutic effect of Tertomotide. Risk C: Monitor therapy
+Theophylline Derivatives: Adalimumab may decrease the serum concentration of Theophylline Derivatives. Exceptions: Dyphylline. Risk C: Monitor therapy
+Thiopurine Analogs: Anti-TNF Agents may enhance the adverse/toxic effect of Thiopurine Analogs. Specifically, the risk for T-cell non-Hodgkin's lymphoma (including hepatosplenic T-cell lymphoma) may be increased. Risk C: Monitor therapy
+Tocilizumab: May enhance the immunosuppressive effect of Anti-TNF Agents. Risk X: Avoid combination
+Tofacitinib: Anti-TNF Agents may enhance the adverse/toxic effect of Tofacitinib. Risk X: Avoid combination
+Trastuzumab: May enhance the neutropenic effect of Immunosuppressants. Risk C: Monitor therapy
+Vaccines (Inactivated): Immunosuppressants may diminish the therapeutic effect of Vaccines (Inactivated). Management: Vaccine efficacy may be reduced. Complete all age-appropriate vaccinations at least 2 weeks prior to starting an immunosuppressant. If vaccinated during immunosuppressant therapy, revaccinate at least 3 months after immunosuppressant discontinuation. Risk D: Consider therapy modification
+Vaccines (Live): Immunosuppressants may enhance the adverse/toxic effect of Vaccines (Live). Immunosuppressants may diminish the therapeutic effect of Vaccines (Live). Management: Avoid use of live organism vaccines with immunosuppressants; live-attenuated vaccines should not be given for at least 3 months after immunosuppressants. Risk X: Avoid combination
+Vedolizumab: Anti-TNF Agents may enhance the adverse/toxic effect of Vedolizumab. Risk X: Avoid combination
+Warfarin: Adalimumab may decrease the serum concentration of Warfarin. Risk C: Monitor therapy
+Pregnancy Implications
+Adalimumab crosses the placenta and can be detected in cord blood at birth at concentrations higher than those in the maternal serum. In one study of pregnant women with inflammatory bowel disease, adalimumab was found to be measurable in a newborn for up to 11 weeks following delivery. Maternal doses of adalimumab were 40 mg every other week (n=9) or 40 mg weekly (n=1) and the last dose was administered 0.14 to 8 weeks prior to delivery (median 5.5 weeks) (Mahadevan 2013). If therapy for inflammatory bowel disease is needed during pregnancy, adalimumab should be discontinued before 30 weeks gestation in order to decrease exposure to the newborn. In addition, the administration of live vaccines should be postponed until anti-TNF concentrations in the infant are negative (Habal 2012; Mahadeven 2013; Zelinkova 2013).
+Women exposed to adalimumab during pregnancy for the treatment of an autoimmune disease (eg, inflammatory bowel disease) may contact the OTIS Autoimmune Diseases Study at 877-311-8972.
+Breast-Feeding Considerations
+Low concentrations of adalimumab may be detected in breast milk but are unlikely to be absorbed by a nursing infant. According to the manufacturer, the decision to continue or discontinue breast-feeding during therapy should take into account the risk of infant exposure, the benefits of breast-feeding to the infant, and benefits of treatment to the mother.
+Monitoring Parameters
+Monitor improvement of symptoms and physical function assessments. Latent TB screening prior to initiating and during therapy; signs/symptoms of active infection, including tuberculosis (prior to, during, and following therapy); CBC with differential; signs/symptoms/worsening of heart failure; HBV screening prior to initiating (all patients), HBV carriers (during and for several months following therapy); signs and symptoms of hypersensitivity reaction; symptoms of lupus-like syndrome; signs/symptoms of malignancy (eg, splenomegaly, hepatomegaly, abdominal pain, persistent fever, night sweats, weight loss), including periodic skin examination. The American Gastroenterological Association suggests reactive therapeutic drug monitoring to guide treatment changes in adult patients treated with adalimumab for active inflammatory bowel disease (Feuerstein 2017).
+Mechanism of Action
+Adalimumab is a recombinant monoclonal antibody that binds to human tumor necrosis factor alpha (TNF-alpha), thereby interfering with binding to TNFα receptor sites and subsequent cytokine-driven inflammatory processes. Elevated TNF levels in the synovial fluid are involved in the pathologic pain and joint destruction in immune-mediated arthritis. Adalimumab decreases signs and symptoms of psoriatic arthritis, rheumatoid arthritis, and ankylosing spondylitis. It inhibits progression of structural damage of rheumatoid and psoriatic arthritis. Reduces signs and symptoms and maintains clinical remission in Crohn disease and ulcerative colitis; reduces epidermal thickness and inflammatory cell infiltration in plaque psoriasis.
+Pharmacodynamics/Kinetics
+Distribution: Vd: 4.7 to 6 L; Synovial fluid concentrations: 31% to 96% of serum 
+Bioavailability: Absolute: 64% 
+Half-life elimination: Terminal: ~2 weeks (range: 10 to 20 days) 
+Time to peak, serum: SubQ: 131 ± 56 hours 
+Pricing: US
+Pen-injector Kit (Humira Pen Subcutaneous)
+40 mg/0.8 mL (1): $2,923.22
+Pen-injector Kit (Humira Pen-Crohns Starter Subcutaneous)
+Pen-injector Kit (Humira Pen-Psoriasis Starter Subcutaneous)
+Prefilled Syringe Kit (Humira Pediatric Crohns Start Subcutaneous)
+Prefilled Syringe Kit (Humira Subcutaneous)
+10 mg/0.2 mL (1): $2,923.22
+20 mg/0.4 mL (1): $2,923.22

@@ -1,0 +1,114 @@
+Abacavir and lamivudine: Drug informationAccess Lexicomp Online here.Copyright 1978-2018 Lexicomp, Inc. All rights reserved.(For additional information see "Abacavir and lamivudine: Patient drug information" and see "Abacavir and lamivudine: Pediatric drug information")For abbreviations and symbols that may be used in Lexicomp (show table)ALERT: US Boxed Warning
+
+Hypersensitivity reactions:
+Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir, a component of abacavir/lamivudine.
+Patients who carry the HLA-B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir; although, hypersensitivity reactions have occurred in patients who do not carry HLA-B*5701 allele.
+Abacavir is contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA-B*5701–positive patients. All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with abacavir or reinitiation of therapy with abacavir, unless patients have a previously documented HLA-B*5701 allele assessment. Discontinue abacavir/lamivudine immediately if a hypersensitivity reaction is suspected, regardless of HLA-B*5701 status and even when other diagnoses are possible.
+Following a hypersensitivity reaction to abacavir, never restart abacavir or any abacavir-containing product because more severe symptoms, including death, can occur within hours. Similar severe reactions have also occurred rarely following the reintroduction of abacavir-containing products in patients who have no history of abacavir hypersensitivity.
+Lactic acidosis and severe hepatomegaly:
+Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals. Discontinue abacavir if clinical or laboratory findings suggestive of lactic acidosis or pronounced hepatotoxicity occur.
+Exacerbations of hepatitis B:
+Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and HIV-1 and have discontinued lamivudine, which is 1 component of abacavir/lamivudine. Hepatic function should be closely monitored with both clinical and laboratory follow-up for at least several months in patients who discontinue abacavir/lamivudine and are coinfected with HIV-1 and HBV. If appropriate, initiation of antihepatitis B therapy may be warranted.
+Brand Names: US
+Epzicom
+Brand Names: Canada
+Apo-Abacavir-Lamivudine;
+Kivexa;
+Mylan-Abacavir/Lamivudine;
+Teva-Abacavir/Lamivudine
+Pharmacologic Category
+ Antiretroviral, Reverse Transcriptase Inhibitor, Nucleoside (Anti-HIV)
+Dosing: Adult
+HIV-1 treatment: Oral: One tablet (abacavir 600 mg and lamivudine 300 mg) once daily. Note: Abacavir/lamivudine is a component of a recommended initial regimen with dolutegravir for ART treatment-naive patients who are HLA B*5701 negative (HHS [adult] 2015).
+Dosing: Pediatric(For additional information see "Abacavir and lamivudine: Pediatric drug information")
+HIV-1 treatment: Children and Adolescents weighing ≥25 kg: Oral: One tablet (abacavir 600 mg and lamivudine 300 mg) once daily.
+Dosing: Renal Impairment
+CrCl ≥50 mL/minute: No dosage adjustment necessary.
+CrCl <50 mL/minute: Use is not recommended.
+Dosing: Hepatic Impairment
+Mild impairment (Child-Pugh class A): Use is not recommended.
+Moderate and severe impairment (Child-Pugh class B or C): Use is contraindicated.
+Dosage Forms
+Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+Tablet, Oral: 
+Epzicom: Abacavir 600 mg and lamivudine 300 mg [contains fd&c yellow #6 (sunset yellow)]
+Generic: Abacavir 600 mg and lamivudine 300 mg
+Generic Equivalent Available (US)
+Yes
+Dosage Forms: Canada
+Information with regard to form, strength, and availability of products uniquely available in Canada but currently not available in the US. Refer also to Dosage forms.
+Tablet, Oral:
+Kivexa: Abacavir 600 mg and lamivudine 300 mg
+Medication Guide and/or Vaccine Information Statement (VIS)
+An FDA-approved patient medication guide, which is available with the product information and at http://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021652s022lbl.pdf#page=27, must be dispensed with this medication. A Warning Card (summarizing symptoms of hypersensitivity), which is available with the product information, must also be dispensed with this medication for each new outpatient prescription and refill.
+Administration
+May be administered with or without food.
+Hazardous Drugs Handling Considerations
+Hazardous agent (NIOSH 2016 [group 2]). 
+Abacavir is a hazardous agent. Use appropriate precautions for receiving, handling, administration, and disposal. Gloves (single) should be worn during receiving, unpacking, and placing in storage. NIOSH recommends single gloving for administration of intact tablets or capsules (NIOSH 2016).
+Use
+HIV-1 infection: Treatment of HIV infection in combination with other antiretroviral agents
+Medication Safety Issues
+High alert medication:
+This medication is in a class the Institute for Safe Medication Practices (ISMP) includes among its list of drug classes that have a heightened risk of causing significant patient harm when used in error.
+Adverse Reactions
+See individual agents as well as other combination products for additional information. Rates of adverse reactions were defined during combination therapy with other antiretrovirals.
+1% to 10%:
+Central nervous system: Abnormal dreams, anxiety, depression, dizziness, fatigue, headache, insomnia, malaise, migraine, vertigo
+Dermatologic: Skin rash
+Gastrointestinal: Abdominal pain, diarrhea, gastritis
+Hypersensitivity: Hypersensitivity (including multiorgan failure and anaphylaxis; ≤9%; higher incidence in subjects carrying the HLA-B*5701 allele)
+Miscellaneous: Fever
+<1%, postmarketing, and/or case reports: Abnormal breath sounds, alopecia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), aplastic anemia, erythema multiforme, exacerbation of hepatitis B, hepatitis, hyperglycemia, immune reconstitution syndrome, increased creatine phosphokinase, lactic acidosis, liver steatosis, lymphadenopathy, myasthenia, paresthesia, peripheral neuropathy, redistribution of body fat, rhabdomyolysis, seizure, splenomegaly, Stevens-Johnson syndrome, stomatitis, weakness, wheezing
+Contraindications
+Hypersensitivity to abacavir, lamivudine, or any component of the formulation; patients who have the HLA-B*5701 allele; moderate or severe hepatic impairment
+Canadian labeling: Additional contraindications (not in US labeling): Hepatic impairment (regardless of severity)
+Warnings/Precautions
+Concerns related to adverse effects:
+• Fat redistribution: May cause redistribution of fat (eg, buffalo hump, peripheral wasting with increased abdominal girth, cushingoid appearance).
+• Hypersensitivity reactions: [US Boxed Warning]: Serious and sometimes fatal hypersensitivity reactions have occurred with abacavir, a component of abacavir/lamivudine. Patients who carry the HLA-B*5701 allele are at a higher risk for a hypersensitivity reaction to abacavir, although hypersensitivity reactions have occurred in patients who do not carry the HLA-B*5701 allele. All patients should be screened for the HLA-B*5701 allele prior to initiating or reinitiation of therapy unless patients have had a previously documented HLA-B*5701 allele assessment. Discontinue abacavir/lamivudine if a hypersensitivity reaction is suspected. Abacavir is contraindicated in patients who have the HLA-B*5701 allele or in patients with a prior hypersensitivity reaction to abacavir. Reintroduction of any abacavir-containing product can result in life-threatening or fatal hypersensitivity reactions, even in patients who have no history of hypersensitivity to abacavir therapy. Such reactions can occur within hours. An allergy to abacavir should be documented in the medical record of allele-positive patients. Reactions usually occur within 9 days of starting abacavir; ~90% occur within 6 weeks, although these reactions may occur at any time during therapy (HHS [adult] 2015). These reactions usually include signs or symptoms from two or more of the following: Fever, skin rash, constitutional symptoms (malaise, fatigue, aches), respiratory symptoms (eg, pharyngitis, dyspnea, cough), and GI symptoms (eg, abdominal pain, diarrhea, nausea, vomiting). Other signs and symptoms include lethargy, headache, myalgia, edema, abnormal chest x-ray findings, arthralgia and paresthesia. Anaphylaxis, liver failure, renal failure, hypotension, adult respiratory distress syndrome, respiratory failure, myolysis, and death have occurred in association with hypersensitivity reactions. Physical findings (lymphadenopathy, mucous membrane lesions, and rash [maculopapular, urticarial or variable]) may occur. Erythema multiforme has also been reported. Laboratory abnormalities (eg, elevated liver function tests, elevated creatine phosphokinase, elevated creatinine, and lymphopenia) may occur. Abacavir/lamivudine should be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible and regardless of HLA-B*5701 status. Abacavir/lamivudine SHOULD NOT be restarted because more severe symptoms may occur within hours, including LIFE-THREATENING HYPOTENSION AND DEATH. If abacavir/lamivudine is restarted following an interruption in therapy not associated with symptoms of a hypersensitivity reaction, carefully evaluate the patient for previously unsuspected symptoms of hypersensitivity. Do not restart if hypersensitivity is suspected or cannot be ruled out regardless of HLA-B*5701 status. If abacavir/lamivudine is restarted, continually monitor for symptoms of a hypersensitivity reaction. Make the patient aware that reintroduction should only take place if medical care is readily accessible.
+• Immune reconstitution syndrome: Patients may develop immune reconstitution syndrome resulting in the occurrence of an inflammatory response to an indolent or residual opportunistic infection during initial HIV treatment or activation of autoimmune disorders (eg, Graves’ disease, polymyositis, Guillain-Barré syndrome) later in therapy; further evaluation and treatment may be required.
+• Lactic acidosis/hepatomegaly: [US Boxed Warning]: Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported with the use of nucleoside analogues and other antiretrovirals. Use with caution in patients with risk factors for liver disease (risk may be increased with female gender, obesity, pregnancy or prolonged exposure) and discontinue treatment in any patient who develops clinical or laboratory findings suggestive of lactic acidosis or hepatotoxicity (transaminase elevation may/may not accompany hepatomegaly and steatosis).
+Disease-related concerns:
+• Coronary heart disease: Use has been associated with an increased risk of myocardial infarction (MI) in observational studies; however, based on a meta-analysis of 26 randomized trials, the FDA has concluded there is not an increased risk. Consider using with caution in patients with risks for coronary heart disease and minimizing modifiable risk factors (eg, hypertension, hyperlipidemia, diabetes mellitus, and smoking) prior to use.
+• Chronic hepatitis B: [US Boxed Warning]: Severe acute exacerbations of hepatitis B have been reported in patients who are co-infected with hepatitis B virus (HBV) and HIV-1 and have discontinued lamivudine, which is 1 component of abacavir/lamivudine. Monitor patients closely for several months following discontinuation of therapy for chronic hepatitis B; clinical exacerbations may occur. Lamivudine-resistant HBV variants have been reported in coinfected patients using lamivudine as part of an antiretroviral regimen.
+• Hepatic impairment: Due to fixed dose of combination product, use is not recommended with mild hepatic impairment; use in patients with moderate or severe hepatic impairment is contraindicated.
+• Renal impairment: Due to fixed dose of combination product, use is not recommended with renal impairment (CrCl <50 mL/minute).
+Concurrent drug therapy issues:
+• Drug-drug interactions: Potentially significant interactions may exist, requiring dose or frequency adjustment, additional monitoring, and/or selection of alternative therapy. Consult drug interactions database for more detailed information.
+• Duplicate therapy: Concomitant use of other abacavir or lamivudine-containing products with the fixed dose combination product should be avoided.
+• Emtricitabine: Concomitant use of emtricitabine-containing products should be avoided.
+• Interferon alfa: Use with caution in combination with interferon alfa with or without ribavirin in HIV/HBV coinfected patients; monitor closely for hepatic decompensation, anemia, or neutropenia; dose reduction or discontinuation of interferon and/or ribavirin may be required if toxicity is evident.
+Other warnings/precautions:
+• Appropriate use: Do not use abacavir and lamivudine (plus efavirenz or plus atazanavir/ritonavir) in adolescent and adult HIV-1 patients with a pre-ART HIV RNA >100,000 copies/mL (HHS [adult] 2015).
+Metabolism/Transport Effects
+Refer to individual components.
+Drug Interactions
+(For additional information: Launch drug interactions program)Cabozantinib: MRP2 Inhibitors may increase the serum concentration of Cabozantinib. Risk C: Monitor therapy
+Emtricitabine: LamiVUDine may enhance the adverse/toxic effect of Emtricitabine. Risk X: Avoid combination
+Methadone: May diminish the therapeutic effect of Abacavir. Abacavir may decrease the serum concentration of Methadone. Risk C: Monitor therapy
+Orlistat: May decrease the serum concentration of Antiretroviral Agents. Risk C: Monitor therapy
+Protease Inhibitors: May decrease the serum concentration of Abacavir. Risk C: Monitor therapy
+Sorbitol: May decrease the serum concentration of LamiVUDine. Management: When possible, avoid chronic coadministration of sorbitol-containing solutions with lamivudine, but if this combination cannot be avoided, monitor patients more closely for possible therapeutic failure associated with decreased lamivudine exposure. Risk D: Consider therapy modification
+Trimethoprim: May increase the serum concentration of LamiVUDine. Risk C: Monitor therapy
+Food Interactions
+Ethanol decreases the elimination of abacavir and may increase the risk of toxicity. Management: Monitor patients.
+Pregnancy Implications
+The Health and Human Services (HHS) Perinatal HIV Guidelines consider abacavir in combination with lamivudine to be a preferred nucleoside reverse transcriptase inhibitor (NRTI) backbone for initial use in antiretroviral-naive pregnant females (do not use in females who are positive for the HLA-B*5701 allele). This backbone is not recommended with atazanavir/ritonavir or efavirenz if pretreatment HIV RNA is >100,000 copies/mL.
+In general, females who become pregnant on a stable antiretroviral therapy (ART) regimen may continue that regimen if viral suppression is effective, appropriate drug exposure can be achieved, contraindications for use in pregnancy are not present, and the regimen is well tolerated (HHS [perinatal] 2017).
+Refer to individual monographs for additional information.
+Breast-Feeding Considerations
+Abacavir and lamivudine are present in breast milk (HHS [perinatal] 2017). See individual agents.
+Monitoring Parameters
+Amylase, bilirubin, blood glucose, serum creatine kinase, liver enzymes, hematologic parameters, triglycerides, viral load, and CD4 count; HLA-B*5701 genotype status prior to initiation of therapy; signs and symptoms of hypersensitivity.
+Mechanism of Action
+Nucleoside reverse transcriptase inhibitor combination. 
+Abacavir is a guanosine analogue which is phosphorylated to carbovir triphosphate which interferes with HIV viral RNA-dependent DNA polymerase resulting in inhibition of viral replication. 
+Lamivudine is a cytosine analog. After lamivudine is triphosphorylated, the principle mode of action is inhibition of HIV reverse transcription via viral DNA chain termination; inhibits RNA-dependent DNA polymerase activities of reverse transcriptase.
+Pharmacodynamics/Kinetics
+One Epzicom tablet is bioequivalent, in the extent (AUC) of absorption and peak concentration, to two abacavir 300 mg tablets and two lamivudine 150 mg tablets; see individual agents.
+Pricing: US
+Tablets (Abacavir Sulfate-Lamivudine Oral)
+600-300 mg (30): $1,395.05
+Tablets (Epzicom Oral)
+600-300 mg (30): $1,550.05
