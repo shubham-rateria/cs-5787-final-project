@@ -32,20 +32,20 @@ from langchain_openai import ChatOpenAI
 from tqdm import tqdm
 
 # Initialize logging to output to a file rather than the terminal
-log_file_path = os.path.join('.', 'log', 'agent_process.log')
+# log_file_path = os.path.join('.', 'log', 'agent_process.log')
 
-# Configure logging to include the desired log level and output to a file
-logging.basicConfig(
-    level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler(log_file_path),  # Log output to file
-        logging.StreamHandler()  # Optionally, keep logging to console if needed
-    ]
-)
+# # Configure logging to include the desired log level and output to a file
+# logging.basicConfig(
+#     level=logging.INFO,  # Change to DEBUG for more detailed logs if needed
+#     format='%(asctime)s - %(levelname)s - %(message)s',
+#     handlers=[
+#         logging.FileHandler(log_file_path),  # Log output to file
+#         logging.StreamHandler()  # Optionally, keep logging to console if needed
+#     ]
+# )
 
-sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
-sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
+# sys.stdout = open(log_file_path, 'a')  # Redirect stdout to the log file
+# sys.stderr = open(log_file_path, 'a')  # Redirect stderr to the log file for error messages
 
 from typing import List
 
@@ -141,7 +141,7 @@ def generate_claim_triplet(agent, summary):
         )
         # structured = llm.with_structured_output(Claims)
         llm_chain = LLMChain(llm=llm, prompt=prompt)
-        response = llm_chain.run({"summary": summary, "num_samples": 4})
+        response = llm_chain.run({"summary": summary, "num_samples": 1})
         
         print("JSON Response", response)
         
@@ -245,17 +245,17 @@ def init_files(output_file, log_file):
 
 # %%
 # File paths
-log_file = os.path.join('.', 'csv', 'process_log-temp-for-report.csv')
-output_file = os.path.join('.', 'csv', 'generated_claim_triplets_with_topics-temp-for-report.csv')
+log_file = os.path.join('.', 'csv', 'process_log.csv')
+output_file = os.path.join('.', 'csv', 'generated_claim_triplets_with_topics.csv')
 input_file = os.path.join('.', 'csv', 'categorized_content_links_unique.csv')
 
 # OpenAI API key
 # openai_api_key = "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"
-# openai_api_key = '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'
+openai_api_key = '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'
 # openai_api_key = "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"
 # API key for OpenAI (Harshini)
 # openai_api_key = "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"
-openai_api_key = os.environ['OPENAI_API_KEY']
+# openai_api_key = os.environ['OPENAI_API_KEY']
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO)
