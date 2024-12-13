@@ -251,10 +251,10 @@ input_file = os.path.join('.', 'csv', 'categorized_content_links_unique.csv')
 
 # OpenAI API key
 # openai_api_key = "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"
-openai_api_key = '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'
+# openai_api_key = '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'
 # openai_api_key = "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"
 # API key for OpenAI (Harshini)
-# openai_api_key = "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"
+openai_api_key = "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"
 # openai_api_key = os.environ['OPENAI_API_KEY']
 
 # Initialize logging
