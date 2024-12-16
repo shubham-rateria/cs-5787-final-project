@@ -65,7 +65,7 @@ The system consists of:
 
 ## Contributors
 - **Shubham Rateria** (NetID: sr2369, Cornell Tech)
-- - **William J. Reid** (NetID: wjr83, Cornell Tech)
+- **William J. Reid** (NetID: wjr83, Cornell Tech)
 - **Harshini Donepudi** (NetID: hsd39, Cornell Tech)
 
 ---
