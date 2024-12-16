@@ -1,7 +1,7 @@
 # Clinical Fact Verification Using Retrieval-Augmented Verification (RAV)
 
 ## Overview
-This repository contains the implementation for the project "Clinical Fact Verification Using Retrieval-Augmented Verification (RAV)," as described in the corresponding IEEE paper. The project adapts the Retrieval-Augmented Verification (RAV) framework to verify medical claims against authoritative clinical guidelines, such as UpToDate, StatPearls, and OpenEvidence.
+This repository contains the implementation for the project "Clinical Fact Verification Using Retrieval-Augmented Verification (RAV)". The project adapts the Retrieval-Augmented Verification (RAV) framework from Zheng et al. "Evidence Retrieval is Almost All You Need for Fact Verification" (ACL Anthology, 2024) to verify medical claims against authoritative clinical guidelines, such as UpToDate, StatPearls, and OpenEvidence.
 
 The system consists of:
 1. **Evidence Retrieval**: Extracting relevant evidence from large corpora.
