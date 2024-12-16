@@ -69,27 +69,23 @@ The system consists of:
 
 ---
 
-
-## Setup for scrapegraph
-
-1. Install playwright
-```
-npm init playwright@latest
-```
-
 ## Setup for langchain -> duckduckgo pipeline
+## Setup 
 
 ```
-pip install langchain langchain_community duckduckgo-search google-serp-api wikipedia
-
-pip install --upgrade langchain
-
-pip install -U langchain-openai
+conda env create -f environment.yml # install the requirements in a conda environment
 
 export OPENAI_API_KEY="<key-here>"
 ```
 
+## Generating Data
+
 ```
 cd data
+
 python data-gen-script-2.py
 ```
+
+## Training and loading the RAV model
+
+The file [rav-final.ipynb](rav-final.ipynb) contains the code for training the model and loading the trained model for inference. The file contains different sections which explain how to use them.

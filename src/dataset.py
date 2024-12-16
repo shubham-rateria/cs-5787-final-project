@@ -1,8 +1,15 @@
+import sys
+import os
+
+print(f"Current WD Dataset: {os.getcwd()}")
+sys.path.append(os.getcwd())
+
 import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 from sklearn.model_selection import train_test_split
 from src.utils import remove_duplicate_strings
+
 # Custom Dataset to load data from one column of a CSV file
 class CSVDataset(Dataset):
     def __init__(self, file_path, transform=None):
@@ -53,7 +60,7 @@ class CSVDataset(Dataset):
         return text, label
     
 
-def split_csv_file(file_path, train_file, val_file, test_file, test_size=0.2, val_size=0.15):
+def split_csv_file(file_path, train_file, val_file, test_file, test_size=0.1, val_size=0.1):
     # Read the CSV file
     data = pd.read_csv(file_path)
     data = data[data['Evidence'] != "Agent stopped due to iteration limit or time limit."]
@@ -62,7 +69,7 @@ def split_csv_file(file_path, train_file, val_file, test_file, test_size=0.2, va
     train, test = train_test_split(data, test_size=test_size, random_state=42)
     
     # Split the train set into train and validation sets
-    train, val = train_test_split(train, test_size=val_size/(1-test_size), random_state=42)
+    train, val = train_test_split(train, test_size=val_size, random_state=42)
     
     # Save the split data into separate CSV files
     train.to_csv(train_file, index=False)
@@ -77,5 +84,5 @@ if __name__ == "__main__":
     # for batch in data_loader:
     #     print(batch)
     #     break
-    split_csv_file("data/csv/combined_file.csv", "data/csv/train.csv", "data/csv/val.csv", "data/csv/test.csv")
+    split_csv_file("data/csv/generated_claim_triplets_with_topics.csv", "data/csv/train.csv", "data/csv/val.csv", "data/csv/test.csv")
 
