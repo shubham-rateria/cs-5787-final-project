@@ -31,7 +31,6 @@ The system consists of:
 ---
 
 ## Evaluation Metrics
-**Classification Metrics:**
    - Precision
    - Recall
    - F1-Score
