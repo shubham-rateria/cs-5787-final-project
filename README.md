@@ -86,6 +86,8 @@ cd data
 python data-gen-script-2.py
 ```
 
+The currently generated dataset can be found at [data/csv/generated_claim_triplets_with_topics.csv](data/csv/generated_claim_triplets_with_topics.csv)
+
 ## Training and loading the RAV model
 
 The file [rav-final.ipynb](rav-final.ipynb) contains the code for training the model and loading the trained model for inference. The file contains different sections which explain how to use them.
